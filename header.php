@@ -15,29 +15,30 @@
 </head>
 <body>	
 
-    <nav class="navbar navbar-default ">
+  <nav class="navbar navbar-default ">
 
-      <?php $defaults = array(
-        'theme_location' => '',
-        'menu' => 'menu-general',
-        'container' => '',
-        'container_class' => 'navbar navbar-default navbar-fixed-top',
-        'container_id' => '',
-        'menu_class' => 'menu',
-        'menu_id' => '',
-        'echo' => true,
-        'fallback_cb' => 'wp_page_menu',
-        'before' => '',
-        'after' => '',
-        'link_before' => '',
-        'link_after' => '',
-        'items_wrap' => '<ul class="nav navbar-nav navbar-right" style="padding:0 50px 0 10px">%3$s</ul>',
-        'depth' =>'',
-        'walker' => ''
-        );
-      wp_nav_menu($defaults);
-      ?>
-</nav>
+    <?php $defaults = array(
+      'theme_location' => '',
+      'menu' => 'menu-general',
+      'container' => '',
+      'container_class' => 'navbar navbar-default navbar-fixed-top',
+      'container_id' => '',
+      'menu_class' => 'menu',
+      'menu_id' => '',
+      'echo' => true,
+      'fallback_cb' => 'wp_page_menu',
+      'before' => '',
+      'after' => '',
+      'link_before' => '',
+      'link_after' => '',
+      'items_wrap' => '<ul class="nav navbar-nav navbar-right" style="padding:0 50px 0 10px">%3$s</ul>',
+      'depth' =>'',
+      'walker' => ''
+      );
+    wp_nav_menu($defaults);
+    ?>
+    <?php wp_head(); ?>
+  </nav>
 
 <!--<nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
@@ -68,5 +69,10 @@
         </div> 
       </div>
     </nav>
+<<<<<<< Updated upstream
 --> 
+=======
+    test pour le git
+  --> 
+>>>>>>> Stashed changes
 

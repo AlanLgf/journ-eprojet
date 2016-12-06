@@ -9,15 +9,18 @@
 			</div>
 			<div class="col-md-4 col-sm-4 col-xs-4">
 				<div class="center_circle">
-				<div class="circle" ></div>
-				<div class="circle" ></div>
-				<div class="circle" ></div>
-				<div class="circle" ></div>
+					<div class="circle" ></div>
+					<div class="circle" ></div>
+					<div class="circle" ></div>
+					<div class="circle" ></div>
 				</div>
 			</div>
-			</div>
-			<p style="text-align: center; margin: 30px 0 0 0;">Copyright 2009 J. DUPONT</p>
+		</div>
+		<p style="text-align: center; margin: 30px 0 0 0;">Copyright 2009 J. DUPONT</p>
 	</section>
 </div>
+<?php 
+wp_footer();
+?>
 </body>
 </html>
