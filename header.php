@@ -71,8 +71,3 @@
     </nav>
 <<<<<<< Updated upstream
 --> 
-=======
-    test pour le git
-  --> 
->>>>>>> Stashed changes
-
