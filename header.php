@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8"/>
   <link href="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url');?>">
 

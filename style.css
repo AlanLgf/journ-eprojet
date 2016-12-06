@@ -11,7 +11,10 @@ h2{
 
 /* ------------------ PRESENTATION ----------------- */
 #presentation{
-	background-color: grey;
+	background-color: #fff;
+}
+#presentation h2, p{
+	font-family: 'Nunito';
 }
 #presentation .row{
 	margin-bottom: 50px;
@@ -22,7 +25,7 @@ h2{
 #presentation p{
 	text-align: justify; 
 	vertical-align: middle; 
-	margin: 5% 5% 0 5%;
+	margin: 2% 5% 0 5%;
 }
 .video_presentation{
 	text-align: center;

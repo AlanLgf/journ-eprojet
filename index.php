@@ -32,7 +32,7 @@ get_header();
          <h2>Presentation</h2>
          <div class="col-md-6 col-sm-12 col-xs-12">
              <div class="video_presentation">
-                 <iframe width="500" height="313" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen></iframe>
+                 <iframe width="500" height="280" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen></iframe>
              </div>
         </div>
 
