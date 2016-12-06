@@ -64,7 +64,7 @@ get_header();
 
             <div class="col-md-6 col-sm-12 col-xs-12" >
                 <div class="img_planning">
-                    <img src="wp-content/themes/journee_projet/img/bleu.jpg">
+                    <img src="wp-content/themes/journ-eprojet/img/bleu.jpg">
                 </div>
             </div>
 
@@ -78,7 +78,7 @@ get_header();
          <h2>Plan</h2>
          <div class="col-md-6 col-sm-12 col-xs-12">
              <div class="img_plan">
-                <img src="wp-content/themes/journee_projet/img/bleu.jpg">
+                <img src="wp-content/themes/journ-eprojet/img/bleu.jpg">
              </div>
         </div>
 
@@ -101,52 +101,52 @@ get_header();
             <h2>Clients</h2>
             <div class="col-md-3 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-3 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-3 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-3 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-2 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-2 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-2 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-2 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-2 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
              <div class="col-md-2 col-sm-4 col-xs-6" >
             	<div class="img_client">
-                	<img src="wp-content/themes/journee_projet/img/logo_sg.jpg">
+                	<img src="wp-content/themes/journ-eprojet/img/logo_sg.jpg">
                 </div>
             </div>
         </div>

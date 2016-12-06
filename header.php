@@ -2,21 +2,44 @@
 <html>
 <head>
   <meta charset="utf-8"/>
-  <link href="<?php bloginfo('url'); ?>/wp-content/themes/journee_projet/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <link href="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/css/bootstrap.min.css" type="text/css" rel="stylesheet">
 
   <link rel="stylesheet" type="text/css" href="<?php bloginfo('stylesheet_url');?>">
 
-  <script src="<?php bloginfo('url');?>/wp-content/themes/journee_projet/js/jquery-2.1.3.js"></script>
-  <script src="<?php bloginfo('url');?>/wp-content/themes/journee_projet/js/bootstrap.js"></script>
-  <script src="<?php bloginfo('url');?>/wp-content/themes/journee_projet/js/smooth_scrolling.js"></script>
+  <script src="<?php bloginfo('url');?>/wp-content/themes/journ-eprojet/js/jquery-2.1.3.js"></script>
+  <script src="<?php bloginfo('url');?>/wp-content/themes/journ-eprojet/js/bootstrap.js"></script>
+  <script src="<?php bloginfo('url');?>/wp-content/themes/journ-eprojet/js/smooth_scrolling.js"></script>
 
   <title>Journée Projet</title>
 
 </head>
 <body>	
 
+    <nav class="navbar navbar-default ">
 
-<nav class="navbar navbar-default navbar-fixed-top">
+      <?php $defaults = array(
+        'theme_location' => '',
+        'menu' => 'menu-general',
+        'container' => '',
+        'container_class' => 'navbar navbar-default navbar-fixed-top',
+        'container_id' => '',
+        'menu_class' => 'menu',
+        'menu_id' => '',
+        'echo' => true,
+        'fallback_cb' => 'wp_page_menu',
+        'before' => '',
+        'after' => '',
+        'link_before' => '',
+        'link_after' => '',
+        'items_wrap' => '<ul class="nav navbar-nav navbar-right" style="padding:0 50px 0 10px">%3$s</ul>',
+        'depth' =>'',
+        'walker' => ''
+        );
+      wp_nav_menu($defaults);
+      ?>
+</nav>
+
+<!--<nav class="navbar navbar-default navbar-fixed-top">
       <div class="container">
 
       <div class="container">
@@ -45,4 +68,4 @@
         </div> 
       </div>
     </nav>
-
+--> 
