@@ -1,12 +1,20 @@
 h1{
 	text-align:center; 
-	padding: 2em 0 1em 0;
-	font-size: 8em;
+	padding: 0.5em 0 1em 0;
+	font-size: 4em;
+	color: #fff;
+	font-family: 'Nunito';
 }
 
 h2{
 	margin: 50px 0 100px;
 	text-align: center;
+}
+
+body{
+	background: url('img/image_header.png') no-repeat center fixed;
+	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
+	background-size: cover;
 }
 
 /* ------------------ PRESENTATION ----------------- */
