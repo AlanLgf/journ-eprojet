@@ -106,23 +106,29 @@ body{
 
 /* ------------------ FOOTER ----------------- */
 #footer{
-	background: grey;
-	height: 100%; 
-	width: 100%;
+	background-image: url("img/footer.jpg");
 }
 #footer p {
-	padding: 40px 0 0 0;
+	padding: 20px 0 0 0;
 	text-align: justify;
 }
+a, a:hover {
+	text-decoration: none;
+}
 
-#footer .circle{
-	height: 50px; 
-	width: 50px; 
-	border-radius: 50px; 
-	border: 1px solid black;
+.socialbtns, .socialbtns ul, .socialbtns li {
+	margin: 0;
+	padding: 10px;
+}
+
+.socialbtns li {
+	list-style: none outside none;
 	display: inline-block;
-	margin: 50px 10px 0 10px ;
+	padding: inherit;
 }
-.center_circle{
-	text-align: center;
+/*
+.socialbtns:hover {
+	background-color: #FFF;
+	transition: all 1s;
 }
+*/
