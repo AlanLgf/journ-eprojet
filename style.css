@@ -1,3 +1,8 @@
+@font-face {
+	font-family: "Police navbar";
+	src: url('ufonts.com_futurastd-condensedbold-opentype.otf');
+}
+
 h1{
 	text-align:center; 
 	padding: 2em 0 1em 0;
@@ -9,9 +14,69 @@ h2{
 	text-align: center;
 }
 
+
+
+/*------------- NAVBAR---------------*/
+
+.navbar-nav>li>.dropdown-menu {
+	padding: 0 0 0 0;
+	background:color:#f1881b;
+
+}
+
+
+
+
+.dropdown-menu>li>a:focus, .dropdown-menu>li>a:hover {
+	color: #262626;
+	text-decoration: none;
+	background-color: #f1881b;
+}
+
+.dropdown-menu>li>a:focus {
+	background:color:#f1881b;
+}
+
+
+.dropdown-menu {
+	text-align:center;
+	background:color:#f1881b;
+}
+
+
+
+.img-navbar {
+	position:absolute;
+	top:39px;
+	left:-15px;
+}
+
+.navbar-default {
+	background-color:#000000;
+	border-color:none;
+	font-family:'Police navbar';
+	font-size:18px;
+
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: #fff;
+}
+
+.img {
+	position: absolute;
+	top: 50px;
+	left: -15px;
+}
+
 /* ------------------ PRESENTATION ----------------- */
 #presentation{
-	background-color: grey;
+	background-color:grey;
 }
 #presentation .row{
 	margin-bottom: 50px;

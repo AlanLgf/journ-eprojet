@@ -19,8 +19,6 @@
 		<p style="text-align: center; margin: 30px 0 0 0;">Copyright 2009 J. DUPONT</p>
 	</section>
 </div>
-<?php 
-wp_footer();
-?>
+
 </body>
 </html>
