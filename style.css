@@ -22,7 +22,7 @@ h2{
 
 .navbar-nav>li>.dropdown-menu {
 	padding: 0 0 0 0;
-	background:color:#f1881b;
+	background-color:#f1881b;
 
 }
 
@@ -36,13 +36,13 @@ h2{
 }
 
 .dropdown-menu>li>a:focus {
-	background:color:#f1881b;
+	background-color:#f1881b;
 }
 
 
 .dropdown-menu {
 	text-align:center;
-	background:color:#f1881b;
+	background-color:#f1881b;
 }
 
 
@@ -176,13 +176,11 @@ h2{
 /* ------------------ FOOTER ----------------- */
 #footer{
 	background-image: url("img/footer.jpg");
+	background-repeat: no-repeat;
 }
 #footer p {
 	padding: 20px 0 0 0;
 	text-align: justify;
-}
-a, a:hover {
-	text-decoration: none;
 }
 
 .socialbtns, .socialbtns ul, .socialbtns li {
@@ -195,9 +193,3 @@ a, a:hover {
 	display: inline-block;
 	padding: inherit;
 }
-/*
-.socialbtns:hover {
-	background-color: #FFF;
-	transition: all 1s;
-}
-*/
