@@ -16,6 +16,40 @@ get_header();
                 <div style="height: 50px; width: 50px; border-radius: 100px; border: 1px solid #444;margin:150px 0 0 50%;">
                 </div>
                 <h6 style="text-align: center; font-size: 20px; padding-left:50px; margin-bottom: 100px;"> Compte à rebours</h6>
+                <div id="compte_a_rebours">
+                    <script type="text/javascript">
+                        var compte_a_rebours = document.getElementById("compte_a_rebours");
+                        var date_actuelle = new Date();
+                        var date_evenement = new Date("Jan 14 00:00:00 2017");
+
+                        var total_secondes = (date_evenement - date_actuelle) / 1000;
+                        var prefixe = "Compte à rebours terminé dans ";
+                        if (total_secondes < 0)
+                        {
+                            prefixe = "Compte à rebours terminé il y a "; // On modifie le préfixe si la différence est négatif
+                            total_secondes = Math.abs(total_secondes); // On ne garde que la valeur absolue
+                        }
+                        if (total_secondes > 0)
+                        {
+                            // A faire, tous nos calculs
+                        }
+                        else // Si total_secondes == 0 (puisqu'on a pris sa valeur absolue)
+                        {
+                            compte_a_rebours.innerHTML = 'Compte à rebours terminé.';
+                        }
+
+                        //calcul nombre de jours, d'heures, de minutes et de secondes restants
+                        var jours = Math.floor(total_secondes / (60 * 60 * 24));
+
+                        //Heures, minutes, secondes restantes
+                        var heures = Math.floor((total_secondes - (jours * 60 * 60 * 24)) / (60 * 60));
+                        var minutes = Math.floor((total_secondes - ((jours * 60 * 60 * 24 + heures * 60 * 60))) / 60);
+                        var secondes = Math.floor(total_secondes - ((jours * 60 * 60 * 24 + heures * 60 * 60 + minutes * 60)));
+
+                        //afficher
+                        compte_a_rebours.innerHTML = prefixe + jours + ' jours ' + heures + ' heures ' + minutes + ' minutes et ' + secondes + ' secondes.';
+                    </script>
+                </div>
             </div>
             <div class="col-md-2 col-sm-2 col-xs-2" style="margin-top: 30%;">
                 <div style="height: 200px; width: 200px; border-radius: 200px; border: 1px solid #444;">

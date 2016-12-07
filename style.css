@@ -193,3 +193,10 @@ h2{
 	display: inline-block;
 	padding: inherit;
 }
+
+
+/* ------------------ compte a rebour ----------------- */
+
+.compte_a_rebour{
+	text-align: center;
+}
