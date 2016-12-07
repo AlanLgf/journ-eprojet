@@ -22,7 +22,7 @@
 
   <nav class="navbar navbar-default navbar-fixed-top">
 
-    <div class="container">
+    <div class="container-fluid">
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
           <span class="sr-only">Toggle navigation</span>
@@ -33,7 +33,7 @@
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <div class="img-navbar">
-          <img  src="<?php echo get_template_directory_uri();?>/img/degrade-navbar.jpg" alt="">
+          <img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/degrade-navbar.jpg" alt="">
         </div>
 
         <?php   

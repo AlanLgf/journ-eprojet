@@ -1,6 +1,12 @@
 @font-face {
 	font-family: "Police navbar";
 	src: url('ufonts.com_futurastd-condensedbold-opentype.otf');
+
+}
+
+@font-face {
+	font-family : "Police footer";
+	src:url('Futura Std Medium.otf');
 }
 
 h1{
@@ -197,4 +203,9 @@ h2{
 
 .compte_a_rebour{
 	text-align: center;
+}
+.copyright {
+	font-family:'Police footer';
+	color:#ffffff;
+
 }
