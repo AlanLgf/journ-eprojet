@@ -5,7 +5,7 @@
 
 h1{
 	text-align:center; 
-	padding: 0.5em 0 1em 0;
+	padding: 1.5em 0 1em 0;
 	font-size: 4em;
 	color: #fff;
 	font-family: 'Nunito';
@@ -73,12 +73,10 @@ h2{
 }
 
 
-.img {
-	position: absolute;
-	top: 50px;
-	left: -15px;
+#main {
 
-	background: url('img/image_header.png') no-repeat center fixed;
+
+	background: url('img/image_header.png') no-repeat center;
 	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
 	background-size: cover;
 }
