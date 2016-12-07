@@ -1,15 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-<<<<<<< HEAD
+
   <?php wp_head(); ?>
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/style.css">
-=======
   <meta charset="utf-8"/>
-  <link href="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/css/bootstrap.min.css" type="text/css" rel="stylesheet">
-  <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
->>>>>>> master
+
+
 
   <title>Journée Projet</title>
 
@@ -56,35 +54,16 @@
            wp_nav_menu( $args ); 
            ?>
 
+         </div>
+
+       </div>
+
+     </nav>
 
 
-      <!--
-     <ul class="nav navbar-nav navbar-right">
-         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Projet <span class="caret"></span></a>
-          <ul class="dropdown-menu">
-            <li><a href="#">IIM</a></li>
-            <li><a href="#">ESILV</a></li>
-          </ul>
-<<<<<<< HEAD
-        </li>
-        <li><a href="#presentation" class="mon_scroll">Présentation</a></li>
-        <li><a href="#planning" class="mon_scroll">Planning</a></li>
-        <li><a href="#plan" class="mon_scroll">Plan</a></li>
-        <li><a href="#client" class="mon_scroll">Clients</a></li>
-      </ul> -->
-    </div>
 
-  </div>
 
+   </div> 
+ </div>
 </nav>
 
-
-
-=======
-        </div> 
-      </div>
-    </nav>
-<<<<<<< Updated upstream
---> 
->>>>>>> master

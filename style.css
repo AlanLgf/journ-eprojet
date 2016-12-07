@@ -16,7 +16,6 @@ h2{
 	text-align: center;
 }
 
-<<<<<<< HEAD
 
 
 /*------------- NAVBAR---------------*/
@@ -75,24 +74,21 @@ h2{
 	position: absolute;
 	top: 50px;
 	left: -15px;
-=======
-body{
+
 	background: url('img/image_header.png') no-repeat center fixed;
 	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
 	background-size: cover;
->>>>>>> master
 }
 
 /* ------------------ PRESENTATION ----------------- */
 #presentation{
-<<<<<<< HEAD
+
 	background-color:grey;
-=======
+
 	background-color: #ecf0f1;
 }
 #presentation h2, p{
 	font-family: 'Nunito';
->>>>>>> master
 }
 #presentation .row{
 	margin-bottom: 50px;
