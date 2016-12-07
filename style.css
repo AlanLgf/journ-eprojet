@@ -68,7 +68,10 @@ h2{
 
 .navbar-default .navbar-nav>li>a {
 	color: #fff;
+	padding-left:45px;
+	padding-right:45px;
 }
+
 
 .img {
 	position: absolute;
