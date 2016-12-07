@@ -1,22 +1,18 @@
 <div id="footer">
 	<section class="container">
 		<div class="row">
-			<div class="col-md-4 col-sm-4 col-xs-4">
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 	</p>
+			<div class="col-md-8 col-sm-6 col-xs-4">
+				<p>© Copyright  Pôle léonard de vinci 2016 - 2017</p>
 			</div>
-			<div class="col-md-4 col-sm-4 col-xs-4">
-				<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 	</p>
-			</div>
-			<div class="col-md-4 col-sm-4 col-xs-4">
-				<div class="center_circle">
-					<div class="circle" ></div>
-					<div class="circle" ></div>
-					<div class="circle" ></div>
-					<div class="circle" ></div>
-				</div>
+
+			<div class="col-xs-6 col-md-3 p-t-20">
+				<ul class="socialbtns">
+					<li><a href="#"><img alt="facebbok" src="wp-content/themes/journ-eprojet/img/Facebook.png"></a></li>
+					<li><a href="#"><img alt="twitter" src="wp-content/themes/journ-eprojet/img/Twitter.png"></a></li>
+
+				</ul>
 			</div>
 		</div>
-		<p style="text-align: center; margin: 30px 0 0 0;">Copyright 2009 J. DUPONT</p>
 	</section>
 </div>
 

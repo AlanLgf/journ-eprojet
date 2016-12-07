@@ -1,0 +1,117 @@
+h1{
+	text-align:center; 
+	padding: 2em 0 1em 0;
+	font-size: 8em;
+}
+
+h2{
+	margin: 50px 0 100px;
+	text-align: center;
+}
+
+/* ------------------ PRESENTATION ----------------- */
+#presentation{
+	background-color: blue;
+}
+#presentation .row{
+	margin-bottom: 50px;
+}
+#presentation .col-md-6, .col-sm-12 , .col-xs-12{
+	vertical-align: middle;  
+}
+#presentation p{
+	text-align: justify; 
+	vertical-align: middle; 
+	margin: 5% 5% 0 5%;
+}
+.video_presentation{
+	text-align: center;
+}
+
+/* ------------------ PLANNING ----------------- */
+#planning{
+	background-color: yellow;
+}
+#planning .row{
+	margin-bottom: 50px;
+}
+#planning .col-md-6, .col-sm-12 , .col-xs-12{
+	vertical-align: middle;  
+}
+#planning p{
+	text-align: justify; 
+	vertical-align: middle; 
+	margin: 10% 5% 0 5%;
+}
+.img_planning{
+	text-align: center;
+}
+.img_planning img{
+	height: 100%; 
+	width : 100%;
+}
+
+/* ------------------ PLAN ----------------- */
+#plan{
+	background: #ecf0f1;
+}
+#plan .row{
+	margin-bottom: 50px;
+}
+#plan .col-md-6, .col-sm-12 , .col-xs-12{
+	vertical-align: middle;  
+}
+#plan p{
+	text-align: justify; 
+	vertical-align: middle; 
+	margin: 10% 5% 0 5%;
+}
+.img_plan{
+	text-align: center;
+}
+.img_plan img{
+	height: 100%; 
+	width : 100%;
+}
+
+/* ------------------ CLIENT ----------------- */
+#client{
+	background-color: purple;
+}
+
+#client.row{
+	margin-bottom: 50px;
+}
+.img_client{
+	margin: 0 auto 100px;
+	height: 100px;
+	width: 100px;
+}
+.img_client img{
+	text-align: center;
+	height: 100%; 
+	width : 100%;
+}
+
+/* ------------------ FOOTER ----------------- */
+#footer{
+	background: grey;
+	height: 100%; 
+	width: 100%;
+}
+#footer p {
+	padding: 40px 0 0 0;
+	text-align: justify;
+}
+
+#footer .circle{
+	height: 50px; 
+	width: 50px; 
+	border-radius: 50px; 
+	border: 1px solid black;
+	display: inline-block;
+	margin: 50px 10px 0 10px ;
+}
+.center_circle{
+	text-align: center;
+}

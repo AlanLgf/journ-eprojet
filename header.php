@@ -1,9 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
+<<<<<<< HEAD
   <?php wp_head(); ?>
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/style.css">
+=======
+  <meta charset="utf-8"/>
+  <link href="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/css/bootstrap.min.css" type="text/css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito" rel="stylesheet">
+>>>>>>> master
 
   <title>Journée Projet</title>
 
@@ -60,6 +66,7 @@
             <li><a href="#">IIM</a></li>
             <li><a href="#">ESILV</a></li>
           </ul>
+<<<<<<< HEAD
         </li>
         <li><a href="#presentation" class="mon_scroll">Présentation</a></li>
         <li><a href="#planning" class="mon_scroll">Planning</a></li>
@@ -74,3 +81,10 @@
 
 
 
+=======
+        </div> 
+      </div>
+    </nav>
+<<<<<<< Updated upstream
+--> 
+>>>>>>> master
