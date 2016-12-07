@@ -53,7 +53,7 @@ h2{
 
 /* ------------------ PLAN ----------------- */
 #plan{
-	background-color: green;
+	background: #ecf0f1;
 }
 #plan .row{
 	margin-bottom: 50px;

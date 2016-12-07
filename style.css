@@ -7,7 +7,7 @@ h1{
 }
 
 h2{
-	margin: 50px 0 100px;
+	margin: 50px 0 50px;
 	text-align: center;
 }
 
@@ -19,7 +19,7 @@ body{
 
 /* ------------------ PRESENTATION ----------------- */
 #presentation{
-	background-color: #fff;
+	background-color: #ecf0f1;
 }
 #presentation h2, p{
 	font-family: 'Nunito';
@@ -64,7 +64,7 @@ body{
 
 /* ------------------ PLAN ----------------- */
 #plan{
-	background-color: grey;
+	background-color: #ecf0f1;
 }
 #plan .row{
 	margin-bottom: 50px;
@@ -79,9 +79,9 @@ body{
 }
 .img_plan{
 	text-align: center;
+	margin : 50px 0 0 0;
 }
-.img_plan img{
-	height: 100%; 
+.img_plan iframe{
 	width : 100%;
 }
 
