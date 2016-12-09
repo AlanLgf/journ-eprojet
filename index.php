@@ -7,54 +7,57 @@ get_header();
     <section class="container-fluid">
         <div class="row">
             <h1>Journée Projets</h1>
-            <div class="col-md-2 col-sm-2 col-xs-2" 
+            <div class="col-md-2 col-sm-2 col-xs-2">
         </div>
-        <div class="col-md-8 col-sm-8 col-xs-8" style="margin-top: 30%;">
-            <div style="height: 50px; width: 50px; border-radius: 100px; border: 1px solid #444;margin:150px 0 0 50%;">
+
+            <div class="col-md-12">
+                <div id="countdown">
+                    <div id='tiles'></div>
+                    <div class="labels">
+                        <li>Jours</li>
+                        <li>Heures</li>
+                        <li>Mins</li>
+                        <li>Secs</li>
+                    </div>
+                </div>
+</div>
+
+                <script>
+
+                    var target_date = new Date().getTime() + (1000*3600*48); // set the countdown date
+                    var days, hours, minutes, seconds; // variables for time units
+
+                    var countdown = document.getElementById("tiles"); // get tag element
+
+                    getCountdown();
+
+                    setInterval(function () { getCountdown(); }, 1000);
+
+                    function getCountdown(){
+
+                        // find the amount of "seconds" between now and target
+                        var current_date = new Date().getTime();
+                        var seconds_left = (target_date - current_date) / 1000;
+
+                        days = pad( parseInt(seconds_left / 86400) );
+                        seconds_left = seconds_left % 86400;
+
+                        hours = pad( parseInt(seconds_left / 3600) );
+                        seconds_left = seconds_left % 3600;
+
+                        minutes = pad( parseInt(seconds_left / 60) );
+                        seconds = pad( parseInt( seconds_left % 60 ) );
+
+                        // format countdown string + set tag value
+                        countdown.innerHTML = "<span>" + days + "</span><span>" + hours + "</span><span>" + minutes + "</span><span>" + seconds + "</span>";
+                    }
+
+                    function pad(n) {
+                        return (n < 10 ? '0' : '') + n;
+                    }
+
+                </script>
             </div>
-            <h6 style="text-align: center; font-size: 20px; padding-left:50px; margin-bottom: 100px;"> Compte à rebours</h6>
-        </div>
-        <div class="col-md-2 col-sm-2 col-xs-2" style="margin-top: 30%;">
-            <div style="height: 200px; width: 200px; border-radius: 200px; border: 1px solid #444;">
-                <h6 style="text-align: center;padding: 60px 0 0 0; font-size: 50px;">ESILV</h6>
-            <div class="col-md-8 col-sm-8 col-xs-8" style="margin-top: 30%;">
-                <div style="height: 50px; width: 50px; border-radius: 100px; border: 1px solid #444;margin:150px 0 0 50%;">
-                </div>
-                <h6 style="text-align: center; font-size: 20px; padding-left:50px; margin-bottom: 100px;"> Compte à rebours</h6>
-                <div id="compte_a_rebours">
-                    <script type="text/javascript">
-                        var compte_a_rebours = document.getElementById("compte_a_rebours");
-                        var date_actuelle = new Date();
-                        var date_evenement = new Date("Jan 14 00:00:00 2017");
-
-                        var total_secondes = (date_evenement - date_actuelle) / 1000;
-                        var prefixe = "Compte à rebours terminé dans ";
-                        if (total_secondes < 0)
-                        {
-                            prefixe = "Compte à rebours terminé il y a "; // On modifie le préfixe si la différence est négatif
-                            total_secondes = Math.abs(total_secondes); // On ne garde que la valeur absolue
-                        }
-                        if (total_secondes > 0)
-                        {
-                            // A faire, tous nos calculs
-                        }
-                        else // Si total_secondes == 0 (puisqu'on a pris sa valeur absolue)
-                        {
-                            compte_a_rebours.innerHTML = 'Compte à rebours terminé.';
-                        }
-
-                        //calcul nombre de jours, d'heures, de minutes et de secondes restants
-                        var jours = Math.floor(total_secondes / (60 * 60 * 24));
-
-                        //Heures, minutes, secondes restantes
-                        var heures = Math.floor((total_secondes - (jours * 60 * 60 * 24)) / (60 * 60));
-                        var minutes = Math.floor((total_secondes - ((jours * 60 * 60 * 24 + heures * 60 * 60))) / 60);
-                        var secondes = Math.floor(total_secondes - ((jours * 60 * 60 * 24 + heures * 60 * 60 + minutes * 60)));
-
-                        //afficher
-                        compte_a_rebours.innerHTML = prefixe + jours + ' jours ' + heures + ' heures ' + minutes + ' minutes et ' + secondes + ' secondes.';
-                    </script>
-                </div>
             </div>
         </div>
     </div>
@@ -62,16 +65,16 @@ get_header();
 </div>
 
 <div id="presentation">
-    <div class="container-fluid" >
+    <div class="container-fluid">
        <div class="row">
            <h2>Presentation</h2>
-           <div class="col-md-6 col-sm-12 col-xs-12">
+           <div class="col-md-7 col-sm-12 col-xs-12">
                <div class="video_presentation">
                    <iframe width="500" height="280" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen></iframe>
                </div>
            </div>
 
-           <div class="col-md-6 col-sm-12 col-xs-12">
+           <div class="col-md-5 col-sm-12 col-xs-12">
                <p>Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
                    Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
                    Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.</p>
