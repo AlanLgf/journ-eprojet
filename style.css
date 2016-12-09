@@ -139,12 +139,11 @@ h2{
 }
 
 .texte_planning{
-	margin: 10% 0 0 0; 
+	margin: 10% 0 345px 0; 
 }
 
 .fond_planning{
-	position: absolute;
-	top: 100%;
+	
 }
 
 
