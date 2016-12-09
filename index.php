@@ -87,19 +87,29 @@ get_header();
        <div id="planning">
            <div class="container-fluid" >
             <div class="row">
-                <h2>Planning</h2>
-                <div class="col-md-6 col-sm-12 col-xs-12">
-                    <p>Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                <div class="col-md-6 col-sm-6 col-xs-12">
+                    <h2>Planning</h2>
+                    <div class="texte_planning">
+                        <p>Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
                         Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
                         Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.</p>
                         <p>Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
-                           Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
-                           Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.</p>
-                       </div>
-
-                       <div class="col-md-6 col-sm-12 col-xs-12" >
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.
+                        Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.</p>
+                    </div>
+                    <div class="fond_planning">
+                        <img src="<?php echo get_template_directory_uri();?>/img/fond_planning.png">
+                    </div>
+                </div>
+                       <div class="col-md-6 col-sm-6 col-xs-12" >
                         <div class="img_planning">
-                            <img src="<?php echo get_template_directory_uri();?>/img/bleu.jpg">
+                            <img src="<?php echo get_template_directory_uri();?>/img/img_planning.png">
                         </div>
                     </div>
 
@@ -132,63 +142,42 @@ get_header();
 
        </div>
 
-
        <div id="client">
            <div class="container-fluid" >
             <div class="row">
                 <h2>Clients</h2>
-                <div class="col-md-3 col-sm-4 col-xs-6" >
+                    <div class="col-md-2 col-sm-4 col-xs-6" >
+                       <div class="img_client">
+                        <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
+                    </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6" >
                    <div class="img_client">
-                       <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-                   </div>
-               </div>
-               <div class="col-md-3 col-sm-4 col-xs-6" >
+                    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
+                </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6" >
+                   <div class="img_client">
+                    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
+                </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6" >
+                   <div class="img_client">
+                    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
+                </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6" >
+                   <div class="img_client">
+                    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
+                </div>
+                </div>
+                <div class="col-md-2 col-sm-4 col-xs-6" >
                    <div class="img_client">
                     <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
                 </div>
             </div>
-            <div class="col-md-3 col-sm-4 col-xs-6" >
-               <div class="img_client">
-                <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-            </div>
-        </div>
-        <div class="col-md-3 col-sm-4 col-xs-6" >
-           <div class="img_client">
-            <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
         </div>
     </div>
-    <div class="col-md-2 col-sm-4 col-xs-6" >
-       <div class="img_client">
-        <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-    </div>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6" >
-   <div class="img_client">
-    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-</div>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6" >
-   <div class="img_client">
-    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-</div>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6" >
-   <div class="img_client">
-    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-</div>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6" >
-   <div class="img_client">
-    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-</div>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6" >
-   <div class="img_client">
-    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-</div>
-</div>
-</div>
-</div>
 </div>
 
 <?php
