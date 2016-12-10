@@ -4,64 +4,44 @@ get_header();
 
 
 <div id="main">
-    <section class="container-fluid">
-        <div class="row">
+
+  <div class="container" >
+      <div class="row" >
+        <div class="col-md-3" id="main_row">
+          <div class="bouton_ecole">
+            <a href="#">
+              <img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
+            </a>
+          </div>
+        </div>
+
+        <div class="col-md-6" id="main_row">
             <div id="countdown">
-                <div class="col-md-12">
                     <div id='tiles'></div>
                     <div class="labels">
                         <li>Jours</li>
                         <li>Heures</li>
-                        <li>Mins</li>
-                        <li>Secs</li>
+                        <li>Minutes</li>
+                        <li>Secondes</li>
                     </div>
-                </div>
             </div>
         </div>
-    </section>
+        <div class="col-md-3" id="main_row">
+          <div class="bouton_ecole">
+            <a href="#">
+              <img src="<?php echo get_template_directory_uri();?>/img/logo_esilv.png">
+            </a>
+          </div>
+        </div>
+
+      </div>
+  </div>
 </div>
-
-<script>
-
-                    var target_date = new Date().getTime() + (1000*3600*48); // set the countdown date
-                    var days, hours, minutes, seconds; // variables for time units
-
-                    var countdown = document.getElementById("tiles"); // get tag element
-
-                    getCountdown();
-
-                    setInterval(function () { getCountdown(); }, 1000);
-
-                    function getCountdown(){
-
-                        // find the amount of "seconds" between now and target
-                        var current_date = new Date().getTime();
-                        var seconds_left = (target_date - current_date) / 1000;
-
-                        days = pad( parseInt(seconds_left / 86400) );
-                        seconds_left = seconds_left % 86400;
-
-                        hours = pad( parseInt(seconds_left / 3600) );
-                        seconds_left = seconds_left % 3600;
-
-                        minutes = pad( parseInt(seconds_left / 60) );
-                        seconds = pad( parseInt( seconds_left % 60 ) );
-
-                        // format countdown string + set tag value
-                        countdown.innerHTML = "<span>" + days + "</span><span>" + hours + "</span><span>" + minutes + "</span><span>" + seconds + "</span>";
-                    }
-
-                    function pad(n) {
-                        return (n < 10 ? '0' : '') + n;
-                    }
-
-                </script>
-
 
                 <div id="presentation">
                     <div class="container-fluid">
                        <div class="row">
-                           <h2>Presentation</h2>
+                           <h2>Présentation de la journée projet</h2>
                            <div class="col-md-7 col-sm-12 col-xs-12">
                                <div class="video_presentation">
                                    <iframe width="500" height="280" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen></iframe>
@@ -104,7 +84,7 @@ get_header();
                                                 <img src="<?php echo get_template_directory_uri();?>/img/fond_planning.png">
                                             </div>
                                         </div>
-                                        <div class="col-md-6 col-sm-6 col-xs-12" >
+                                        <div class="col-md-6 col-sm-6 col-xs-12"  id="imgduplanning">
                                             <div class="img_planning">
                                                 <img src="<?php echo get_template_directory_uri();?>/img/img_planning.png">
                                             </div>
@@ -176,6 +156,44 @@ get_header();
         </div>
     </div>
 </div>
+
+
+
+<script>
+
+                    var target_date = new Date().getTime() + (1000*3600*48); // set the countdown date
+                    var days, hours, minutes, seconds; // variables for time units
+
+                    var countdown = document.getElementById("tiles"); // get tag element
+
+                    getCountdown();
+
+                    setInterval(function () { getCountdown(); }, 1000);
+
+                    function getCountdown(){
+
+                        // find the amount of "seconds" between now and target
+                        var current_date = new Date().getTime();
+                        var seconds_left = (target_date - current_date) / 1000;
+
+                        days = pad( parseInt(seconds_left / 86400) );
+                        seconds_left = seconds_left % 86400;
+
+                        hours = pad( parseInt(seconds_left / 3600) );
+                        seconds_left = seconds_left % 3600;
+
+                        minutes = pad( parseInt(seconds_left / 60) );
+                        seconds = pad( parseInt( seconds_left % 60 ) );
+
+                        // format countdown string + set tag value
+                        countdown.innerHTML = "<span>" + days + "</span><span>" + hours + "</span><span>" + minutes + "</span><span>" + seconds + "</span>";
+                    }
+
+                    function pad(n) {
+                        return (n < 10 ? '0' : '') + n;
+                    }
+
+                </script>
 
 <?php
 get_footer();
