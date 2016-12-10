@@ -15,13 +15,12 @@ h1{
 	font-size: 4em;
 	color: #fff;
 	font-family: 'Nunito';
-	text-transform: uppercase;
 }
 
 h2{
 	margin: 50px 0 50px;
 	text-align: center;
-	text-transform: uppercase;
+	font-family:'Police navbar';
 }
 
 
@@ -95,20 +94,8 @@ h2{
 	background: url('img/image_header.png') no-repeat center;
 	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
 	background-size: cover;
-	height: 100vh;
+	height: 650px;
 	width: 100%;
-}
-
-#main_row{
-	margin: 65% 0 0 0;
-}
-
-.bouton_ecole{
-	text-align: center;
-}
-
-#imgduplanning{
-	padding: 0px !important;
 }
 
 /* ------------------ PRESENTATION ----------------- */
@@ -118,8 +105,8 @@ h2{
 
 	background-color: #ecf0f1;
 }
-#presentation h2, p{
-	margin: 50px 0;
+#presentation  p,h2{
+	font-family: 'Nunito';
 }
 #presentation .row{
 	margin-bottom: 50px;
@@ -164,17 +151,21 @@ h2{
 	margin: 10% 0 0 0; 
 }
 
+.fond_planning{
+	position: absolute;
+	top: 100%;
+}
+
+
 .fond_planning img{
-	width: 100%;
+	width: 93%;
 	height: auto;
+
 }
 
 /* ------------------ PLAN ----------------- */
 #plan{
 	background-color: #ecf0f1;
-}
-#plan h2{
-	margin: 10% 0 ;
 }
 #plan .row{
 	margin-bottom: 50px;
@@ -185,11 +176,11 @@ h2{
 #plan p{
 	text-align: justify; 
 	vertical-align: middle; 
-	margin: 5% 5% 0 5%;
+	margin: 10% 5% 0 5%;
 }
 .img_plan{
 	text-align: center;
-	margin : 50px 0 0 50px;
+	margin : 50px 0 0 0;
 }
 .img_plan iframe{
 	width : 100%;
@@ -227,7 +218,6 @@ h2{
 #footer p {
 	padding: 2% 0 0 10%;
 	text-align: justify;
-	margin: 0px !important;
 }
 
 .socialbtns, .socialbtns ul, .socialbtns li {
@@ -249,19 +239,32 @@ h2{
 	width: 465px;
 	height: 172px;
 	text-align: center;
+	background: #222;
+	background-image: -webkit-linear-gradient(top, #222, #333, #333, #222);
+	background-image:    -moz-linear-gradient(top, #222, #333, #333, #222);
+	background-image:     -ms-linear-gradient(top, #222, #333, #333, #222);
+	background-image:      -o-linear-gradient(top, #222, #333, #333, #222);
+	border: 1px solid #111;
+	border-radius: 5px;
+	box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.6);
 	margin: auto;
 	padding: 24px 0;
-	/*
 	position: absolute;
-	top: 530px; bottom: 0; left: 0; right: 0;*/
+	top: 530px; bottom: 0; left: 0; right: 0;
 }
 
-/*;
 #countdown:before{
 	content:"";
 	width: 8px;
 	height: 65px;
-
+	background: #444;
+	background-image: -webkit-linear-gradient(top, #555, #444, #444, #555);
+	background-image:    -moz-linear-gradient(top, #555, #444, #444, #555);
+	background-image:     -ms-linear-gradient(top, #555, #444, #444, #555);
+	background-image:      -o-linear-gradient(top, #555, #444, #444, #555);
+	border: 1px solid #111;
+	border-top-left-radius: 6px;
+	border-bottom-left-radius: 6px;
 	display: block;
 	position: absolute;
 	top: 48px; left: -10px;
@@ -284,7 +287,6 @@ h2{
 	top: 48px; right: -10px;
 }
 
-*/
 #countdown #tiles{
 	position: relative;
 	z-index: 1;
@@ -310,7 +312,6 @@ h2{
 	position: relative;
 }
 
-/*
 #countdown #tiles > span:before{
 	content:"";
 	width: 100%;
@@ -333,16 +334,13 @@ h2{
 	position: absolute;
 	top: 48%; left: 0;
 }
-*/
 
 #countdown .labels{
 	width: 100%;
 	height: 25px;
 	text-align: center;
-	margin: 5% 0;
-	/*
 	position: absolute;
-	bottom: 8px; */
+	bottom: 8px;
 }
 
 #countdown .labels li{
