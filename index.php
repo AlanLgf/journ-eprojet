@@ -9,26 +9,39 @@ get_header();
             <div class="col-md-12">
               <H1>Journée projet</H1>
             </div>
-            <div class="col-md-3" id="main_row">
+        </div>
+
+         <div class="row">
+
+      <div class="col-md-6 col-md-offset-3" id="main_row">
+        <div class="clock-builder-output"></div>
+          <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+          <script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/js/flipclock.js"></script>
+          <style text="text/css">body .flip-clock-wrapper ul li a div div.inn, body .flip-clock-small-wrapper ul li a div div.inn { color: #CCCCCC; background-color: #333333; } body .flip-clock-dot, body .flip-clock-small-wrapper .flip-clock-dot { background: #323434; } body .flip-clock-wrapper .flip-clock-meridium a, body .flip-clock-small-wrapper .flip-clock-meridium a { color: #323434; }</style>
+          <script type="text/javascript">
+          $(function(){
+            FlipClock.Lang.Custom = { days:'Jours', hours:'Heures', minutes:'Minutes', seconds:'Secondes' };
+            var opts = {
+              clockFace: 'DailyCounter',
+              countdown: true,
+              language: 'Custom'
+            };  
+            var countdown = 1484690460 - ((new Date().getTime())/1000); // from: 03/04/2017 10:52 pm +0100
+            countdown = Math.max(1, countdown);
+            $('.clock-builder-output').FlipClock(countdown, opts);
+          });
+          </script>
+    </div>
+    </div>
+     <div class="row">
+                <div class="col-md-3" id="main_row">
               <div class="bouton_ecole">
                 <a href="#">
                   <img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
-              </a>
-          </div>
-      </div>
-
-      <div class="col-md-6" id="main_row">
-        <div id="countdown">
-            <div id='tiles'></div>
-            <div class="labels">
-                <li>Jours</li>
-                <li>Heures</li>
-                <li>Minutes</li>
-                <li>Secondes</li>
+                </a>
+              </div>
             </div>
-        </div>
-    </div>
-    <div class="col-md-3" id="main_row">
+    <div class="col-md-3 col-md-offset-6" id="main_row">
       <div class="bouton_ecole">
         <a href="#">
           <img src="<?php echo get_template_directory_uri();?>/img/logo_esilv.png">
@@ -159,44 +172,6 @@ get_header();
 </div>
 </div>
 
+<?php get_footer();?>
 
 
-<script>
-
-                    var target_date = new Date().getTime() + (1000*3600*48); // set the countdown date
-                    var days, hours, minutes, seconds; // variables for time units
-
-                    var countdown = document.getElementById("tiles"); // get tag element
-
-                    getCountdown();
-
-                    setInterval(function () { getCountdown(); }, 1000);
-
-                    function getCountdown(){
-
-                        // find the amount of "seconds" between now and target
-                        var current_date = new Date().getTime();
-                        var seconds_left = (target_date - current_date) / 1000;
-
-                        days = pad( parseInt(seconds_left / 86400) );
-                        seconds_left = seconds_left % 86400;
-
-                        hours = pad( parseInt(seconds_left / 3600) );
-                        seconds_left = seconds_left % 3600;
-
-                        minutes = pad( parseInt(seconds_left / 60) );
-                        seconds = pad( parseInt( seconds_left % 60 ) );
-
-                        // format countdown string + set tag value
-                        countdown.innerHTML = "<span>" + days + "</span><span>" + hours + "</span><span>" + minutes + "</span><span>" + seconds + "</span>";
-                    }
-
-                    function pad(n) {
-                        return (n < 10 ? '0' : '') + n;
-                    }
-
-                </script>
-
-                <?php
-                get_footer();
-                ?>
