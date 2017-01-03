@@ -1,5 +1,6 @@
 $(document).ready(function(){
   // Add smooth scrolling to all links
+$('.menu-item>a').addClass("mon_scroll");
   $(".mon_scroll").on('click', function(event) {
 
     // Make sure this.hash has a value before overriding default behavior

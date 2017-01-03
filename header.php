@@ -5,6 +5,7 @@
   <?php wp_head(); ?>
   <meta charset="<?php bloginfo( 'charset' ); ?>">
   <link rel="stylesheet" href="<?php echo get_template_directory_uri();?>/style.css">
+  <script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/js/smooth_scrolling.js"></script>
   <meta charset="utf-8"/>
 
 
