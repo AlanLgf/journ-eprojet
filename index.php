@@ -6,6 +6,9 @@ get_header();
 <div id="main">
     <div class="container">
         <div class="row">
+            <div class="col-md-12">
+              <H1>Journée projet</H1>
+            </div>
             <div class="col-md-3" id="main_row">
               <div class="bouton_ecole">
                 <a href="#">
@@ -80,7 +83,7 @@ get_header();
                                 Cumque pertinacius ut legum gnarus accusatorem flagitaret atque sollemnia, doctus id Caesar libertatemque superbiam.</p>
                             </div>
                             <div class="fond_planning">
-                                <img src="<?php echo get_template_directory_uri();?>/img/fond_planning.png">
+                                <img src="<?php echo get_template_directory_uri();?>/img/fond_planning2.png">
                             </div>
                         </div>
                         <div class="col-md-6 col-sm-6 col-xs-12"  id="imgduplanning">
