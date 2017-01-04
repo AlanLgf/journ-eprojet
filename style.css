@@ -247,7 +247,11 @@ h2{
 	display: inline-block;
 	padding: inherit;
 }
-
+.associations li{
+	list-style: none outside none;
+	display: inline-block;
+	padding: inherit;
+}
 
 /* ------------------ compte a rebour ----------------- */
 
