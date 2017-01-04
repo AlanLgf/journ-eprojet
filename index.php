@@ -137,7 +137,7 @@ get_header();
            <div id="client">
                <div class="container-fluid" >
                 <div class="row">
-                    <h2>Clients</h2>
+                    <h2>Partenaires</h2>
                     <div class="col-md-2 col-sm-4 col-xs-6" >
                        <div class="img_client">
                         <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
