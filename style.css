@@ -381,6 +381,34 @@ h2{
 	display: inline-block;
 }
 
+.tech-slideshow {
+  height: 104px;
+  margin-bottom: 50px; 
+  position: relative;
+  overflow: hidden;
+  transform: translate3d(0, 0, 0);
+}
+
+.tech-slideshow > div {
+  height: 200px;
+  width: 3000px;
+  background: url("img/Diapo.png");
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  transform: translate3d(0, 0, 0);
+}
+.tech-slideshow .mover-1 {
+  animation: moveSlideshow 60s linear infinite;
+}
+
+@keyframes moveSlideshow {
+  100% { 
+    transform: translateX(-55.5555%);  
+  }
+}
+
 /* page projet */
 
 
@@ -573,3 +601,5 @@ h2{
 						.wdt {
 							padding-right: 0px !important;
 							padding-left: 0px !important; }
+
+
