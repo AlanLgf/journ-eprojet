@@ -233,24 +233,31 @@ h2{
 }
 #footer p {
 	padding: 2% 0 0 10%;
-	text-align: justify;
+	text-align: center;
 	margin: 0px !important; 
-}
-
-.socialbtns, .socialbtns ul, .socialbtns li {
-	margin: 0;
-	padding: 10px;
 }
 
 .socialbtns li {
 	list-style: none outside none;
 	display: inline-block;
-	padding: inherit;
+	padding: initial;
 }
 .associations li{
 	list-style: none outside none;
 	display: inline-block;
-	padding: inherit;
+	padding: initial;
+}
+.associations ul{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.footer-partenaire{
+	text-align: center;
+}
+
+.footer-rejoindre{
+	text-align: center;
 }
 
 /* ------------------ compte a rebour ----------------- */
