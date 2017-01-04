@@ -138,39 +138,13 @@ get_header();
                <div class="container-fluid" >
                 <div class="row">
                     <h2>Partenaires</h2>
-                    <div class="col-md-2 col-sm-4 col-xs-6" >
-                       <div class="img_client">
-                        <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-                    </div>
                 </div>
-                <div class="col-md-2 col-sm-4 col-xs-6" >
-                   <div class="img_client">
-                    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
                 </div>
-            </div>
-            <div class="col-md-2 col-sm-4 col-xs-6" >
-               <div class="img_client">
-                <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-            </div>
-        </div>
-        <div class="col-md-2 col-sm-4 col-xs-6" >
-           <div class="img_client">
-            <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-        </div>
-    </div>
-    <div class="col-md-2 col-sm-4 col-xs-6" >
-       <div class="img_client">
-        <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-    </div>
-</div>
-<div class="col-md-2 col-sm-4 col-xs-6" >
-   <div class="img_client">
-    <img src="<?php echo get_template_directory_uri();?>/img/logo_sg.jpg">
-</div>
-</div>
-</div>
-</div>
-</div>
+
+                <div class="tech-slideshow">
+                    <div class="mover-1"></div>
+                </div>
+                </div>
 
 <?php get_footer();?>
 
