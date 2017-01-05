@@ -1,33 +1,35 @@
 @font-face {
-	font-family: 'Futura Std Light';
-	src: url('FuturaStd-Light.woff') format('woff');
-
-	font-family: 'FuturaStd-Medium';
-	src: url('FuturaStd-Medium.eot') format('embedded-opentype');
+	font-family: "Police navbar";
+	src: url('ufonts.com_futurastd-condensedbold-opentype.otf');
 
 }
+
 
 @font-face {
-	font-family : "Police footer";
-	src:url('Futura Std Medium.otf');
+	font-family : "Futura";
+	src:url('font/FuturaStd-Medium.ttf');
 }
+
 
 h1{
 	text-align:center; 
 	padding: 1.5em 0 1em 0;
 	font-size:3em;
 	color: #fff;
-	font-family: 'FuturaStd-Medium';
+	font-family: 'Police navbar';
 	text-transform: uppercase;
 }
 
 h2{
 	margin: 50px 0 50px;
 	text-align: center;
-	font-family:'FuturaStd-Medium';
+	font-family:'Police navbar';
 	text-transform: uppercase;
 }
 
+h3{
+	font-family:'Police navbar';
+}
 
 
 /*------------- NAVBAR---------------*/
@@ -134,7 +136,7 @@ h2{
 	text-align: justify; 
 	vertical-align: middle; 
 	margin: 5% ;
-	font-family: 'Futura Std Light';
+	font-family: 'Futura';
 }
 .video_presentation{
 	text-align: center;
@@ -155,7 +157,7 @@ h2{
 	text-align: justify; 
 	vertical-align: middle; 
 	margin:  10% 5% 5% 5%;
-	font-family: 'Futura Std Light';
+	font-family: 'Futura';
 }
 .img_planning{
 	text-align: center;
@@ -194,7 +196,7 @@ h2{
 	text-align: justify; 
 	vertical-align: middle; 
 	margin: 5% 5% 0 5%;
-	font-family: 'Futura Std Light';
+	font-family: 'Futura';
 
 }
 #plan h2{ 
@@ -242,7 +244,7 @@ h2{
 	padding: 2% 0 0 10%;
 	text-align: center;
 	margin: 0px !important;
-	font-family: 'Futura Std Medium';
+	font-family: 'Futura';
 }
 
 .socialbtns li {
