@@ -3,6 +3,11 @@
 	font-style: normal;
 	font-weight: normal;
 	src: local('Futura Std Light'), url('FuturaStd-Light.woff') format('woff');
+
+	font-family: 'FuturaStd-Medium';
+	src: url('FuturaStd-Medium.eot') format('embedded-opentype');
+	font-weight: normal;
+	font-style: normal;
 }
 
 @font-face {
@@ -15,14 +20,14 @@ h1{
 	padding: 1.5em 0 1em 0;
 	font-size:3em;
 	color: #fff;
-	font-family: 'Police navbar';
+	font-family: 'FuturaStd-Medium';
 	text-transform: uppercase;
 }
 
 h2{
 	margin: 50px 0 50px;
 	text-align: center;
-	font-family:'Police navbar';
+	font-family:'FuturaStd-Medium';
 	text-transform: uppercase;
 }
 
