@@ -1,7 +1,8 @@
 @font-face {
-	font-family: "Police navbar";
-	src: url('ufonts.com_futurastd-condensedbold-opentype.otf');
-
+	font-family: 'Futura Std Light';
+	font-style: normal;
+	font-weight: normal;
+	src: local('Futura Std Light'), url('FuturaStd-Light.woff') format('woff');
 }
 
 @font-face {
@@ -254,10 +255,12 @@ h2{
 
 .footer-partenaire{
 	text-align: center;
+	color: white;
 }
 
 .footer-rejoindre{
 	text-align: center;
+	color: white;
 }
 
 /* ------------------ compte a rebour ----------------- */
