@@ -178,8 +178,8 @@ h3{
 
 
 .fond_planning img {
-	width: 558px;
-	height: auto;
+	width: 100%;
+	height: 500px;
 }
 
 /* ------------------ PLAN ----------------- */
@@ -241,35 +241,38 @@ h3{
 	background-size: cover;
 }
 #footer p {
-	padding: 2% 0 0 10%;
+	padding: 2% 0 0 0;
 	text-align: center;
 	margin: 0px !important;
 	font-family: 'Futura';
 }
-
-.socialbtns li {
-	list-style: none outside none;
-	display: inline-block;
-	padding: initial;
+#center_img{
+	text-align: center;
 }
+#li1 {
+	float: right;
+}
+#li2 {
+	float: left !important;
+}
+
 .associations li{
 	list-style: none outside none;
 	display: inline-block;
-	padding: initial;
 }
-.associations ul{
-	margin-top: 10px;
-	margin-bottom: 10px;
-}
+
+
 
 .footer-partenaire{
 	text-align: center;
 	color: white;
+	margin: 15px 0 40px 0;
 }
 
 .footer-rejoindre{
 	text-align: center;
 	color: white;
+	margin: 15px 0 40px 0;
 }
 
 /* ------------------ compte a rebour ----------------- */
