@@ -6,13 +6,10 @@
 				<h3 class="footer-partenaire">Nos partenaires</h3>
 			</div>
 			<div class="row">
-				<div class="col-md-4">
-					<a href="#"><img alt="leocook" id="li1" src="<?php echo get_template_directory_uri();?>/img/Leo-Cook.png" width="70px" height="50px"></a>
+				<div class="col-md-6">
+					<a href="#"><img alt="poletech" id="li1" src="<?php echo get_template_directory_uri();?>/img/PoleTech.jpg" width="60px" height="60px"></a>
 				</div>
-				<div class="col-md-4" id="center_img">
-					<a href="#"><img alt="poletech" src="<?php echo get_template_directory_uri();?>/img/PoleTech.jpg" width="60px" height="60px"></a>
-				</div>
-				<div class="col-md-4">
+				<div class="col-md-6">
 					<a href="#"><img alt="poletech" id="li2" src="<?php echo get_template_directory_uri();?>/img/Musique-Mix.png" width="60px" height="60px"></a>
 				</div>
 			</div>
