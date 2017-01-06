@@ -163,7 +163,6 @@ h3{
 	text-align: center;
 }
 .img_planning img{
-	height: 1000px; 
 	width : 100%;
 }
 
@@ -171,15 +170,9 @@ h3{
 	margin: 10% 0 0 0; 
 }
 
-.fond_planning{
-	position: absolute;
-	top: 500px;
-}
-
 
 .fond_planning img {
 	width: 100%;
-	height: 500px;
 }
 
 /* ------------------ PLAN ----------------- */
@@ -616,5 +609,4 @@ h3{
 						.wdt {
 							padding-right: 0px !important;
 							padding-left: 0px !important; }
-
-
+/*------------- RESPONSIVE---------------*/
