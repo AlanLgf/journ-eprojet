@@ -111,6 +111,10 @@ h3{
 .bouton_ecole{ 
   text-align: center; 
 }
+.bouton_ecole:hover{
+	cursor : hand;
+	 -webkit-filter: brightness(75%);
+}
 
 #imgduplanning{ 
   padding: 0px !important; 
@@ -123,9 +127,7 @@ h3{
 
 	background-color: #ecf0f1;
 }
-#presentation  p,h2{
-	margin: 50px 0; 
-}
+
 #presentation .row{
 	margin-bottom: 50px;
 }
@@ -133,10 +135,9 @@ h3{
 	vertical-align: middle;  
 }
 #presentation p{
-	text-align: justify; 
-	vertical-align: middle; 
-	margin: 5% ;
 	font-family: 'Futura';
+	    padding: 0 0 10px 0;
+	    font-size: 1.25em;
 }
 .video_presentation{
 	text-align: center;
@@ -153,11 +154,10 @@ h3{
 #planning .col-md-6, .col-sm-12 , .col-xs-12{
 	vertical-align: middle;  
 }
-#planning p{
-	text-align: justify; 
-	vertical-align: middle; 
-	margin:  10% 5% 5% 5%;
+#planning p{ 
+	padding: 0 0 5px 0;
 	font-family: 'Futura';
+	font-size: 1.25em;
 }
 .img_planning{
 	text-align: center;
@@ -167,7 +167,7 @@ h3{
 }
 
 .texte_planning{
-	margin: 10% 0 0 0; 
+	margin: 10% 0 0 10%; 
 }
 
 
@@ -186,10 +186,10 @@ h3{
 	vertical-align: middle;  
 }
 #plan p{
-	text-align: justify; 
-	vertical-align: middle; 
 	margin: 5% 5% 0 5%;
 	font-family: 'Futura';
+	padding: 0 0 10px 0;
+	font-size: 1.25em;
 
 }
 #plan h2{ 
@@ -236,6 +236,7 @@ h3{
 #footer p {
 	padding: 2% 0 0 0;
 	text-align: center;
+	color: #fff;
 	margin: 0px !important;
 	font-family: 'Futura';
 }
@@ -610,3 +611,40 @@ h3{
 							padding-right: 0px !important;
 							padding-left: 0px !important; }
 /*------------- RESPONSIVE---------------*/
+@media screen and (max-width: 500px) {
+  .flip-clock-wrapper {
+    display:none;
+  }
+  .bouton_ecole{
+  	margin: 10em 0 0 0 !important;
+  }
+}
+@media screen and (max-width: 600px) {
+  .flip-clock-wrapper {
+    display:none;
+  }
+  .bouton_ecole{
+  	margin: 8em 0 0 0;
+  }
+}
+@media screen and (max-width: 800px) {
+  .flip-clock-wrapper {
+    display:none;
+  }
+  .bouton_ecole{
+  	margin:  8em 0 0 0 ;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .flip-clock-wrapper {
+    display:none;
+  }
+  .bouton_ecole{
+  	margin:  6em 0 0 0 ;
+  }
+  h1{
+  	padding: 0 0 10% 0;
+  }
+}
+
+

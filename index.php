@@ -57,24 +57,24 @@ get_header();
     <div class="container-fluid">
        <div class="row">
            <h2>Présentation de la journée projet</h2>
-           <div class="col-md-7 col-sm-12 col-xs-12">
+           <div class="col-md-6">
                <div class="video_presentation">
-                 <iframe width="80%" height="500px" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen=""></iframe>
+                 <iframe width="80%" height="350px" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen=""></iframe>
                </div>
            </div>
 
-           <div class="col-md-5 col-sm-12 col-xs-12">
+           <div class="col-md-6">
                                <p>La journée projet est un événement annuel interne au Pôle Léonard de Vinci, visant à exposer
-                aux professionnels mais également aux particuliers les projets réalisés par nos étudiants.
-                Lors de cette journée vous pourrez découvrir les expositions des projets, poser vos questions
-                et interagir avec nos étudiants.
-                Au total, une trentaine de projets diversifiés relatifs aux projets de l’IIM et de l’ESILV domaines
-                confondus seront exposés.
-                En quelques chiffres la Journée Projet du Pôle Universitaire Léonard de Vinci c’est :
-                - 800 étudiants travaillant sur un projet professionnel
-                - 24 entreprises professionnelles
+                aux professionnels mais également aux particuliers les projets réalisés par nos étudiants.  </p>
+                 <p> Lors de cette journée vous pourrez découvrir les expositions des projets, poser vos questions
+                et interagir avec nos étudiants.  </p>
+                  <p>Au total, une trentaine de projets diversifiés relatifs aux projets de l’IIM et de l’ESILV domaines
+                confondus seront exposés.  </p>
+                <p>  En quelques chiffres la Journée Projet du Pôle Universitaire Léonard de Vinci c’est :<br/>
+                - 800 étudiants travaillant sur un projet professionnel<br/>
+                - 24 entreprises professionnelles<br/>
                 - 6 spécialisations exposées par l’IIM (communication digitale, communication visuelle, web
-                & e-business, jeux vidéo, cinéma d’animation, design interactif)
+                & e-business, jeux vidéo, cinéma d’animation, design interactif)<br/>
                 - 4 spécialisations exposées par l’ESILV (informatique, big data & objets connectés,
                 ingénierie financière, mécanique numérique et modélisation, nouvelles énergies) </p>
                    </div>
@@ -90,11 +90,11 @@ get_header();
                
                     <h2>Planning</h2>
                     <div class="texte_planning">
-                        <p>L’évènement Journée Projet se déroulera en deux temps :
-- De 16h à 18h30 les étudiants exposeront leurs projets en Rue Haute et à
-l’Infothèque. (Voir Guide de l’établissement)
-- Un buffet à partager et des activités à découvrir
-- De 18h30 à 19h : Une remise de prix est organisée, les meilleures équipes seront
+                        <p>L’évènement Journée Projet se déroulera en deux temps :</p>
+ <p>- De 16h à 18h30 les étudiants exposeront leurs projets en Rue Haute et à
+l’Infothèque. (Voir Guide de l’établissement) </p>
+ <p>- Un buffet à partager et des activités à découvrir </p>
+ <p>- De 18h30 à 19h : Une remise de prix est organisée, les meilleures équipes seront
 sélectionnées et récompensées. </p>
                             </div>
                             
@@ -122,7 +122,8 @@ sélectionnées et récompensées. </p>
                       <h2>Plan</h2>
                       <p> "Rendez-vous au Pôle Léonard de Vinci situé à la Défense. Dès votre arrivée, un guide sera
 présent pour vous aidé et vous accompagné à travers le pôle pour découvrir tous les projets
-et activités.
+et activités.</p>
+<p>
 Au besoin, un vestiaire sera à disposition. » </p>
                        </div>
 
