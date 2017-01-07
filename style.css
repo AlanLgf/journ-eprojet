@@ -391,7 +391,7 @@ h3{
 }
 
 .tech-slideshow {
-  height: 104px;
+  height: 100px;
   margin-bottom: 50px; 
   position: relative;
   overflow: hidden;
@@ -400,8 +400,8 @@ h3{
 
 .tech-slideshow > div {
   height: 200px;
-  width: 3000px;
-  background: url("img/Diapo.png");
+  width: 9218px;
+  background: url("img/slidemove.png");
   position: absolute;
   top: 0;
   left: 0;
@@ -409,7 +409,7 @@ h3{
   transform: translate3d(0, 0, 0);
 }
 .tech-slideshow .mover-1 {
-  animation: moveSlideshow 60s linear infinite;
+  animation: moveSlideshow 90s linear infinite;
 }
 
 @keyframes moveSlideshow {
