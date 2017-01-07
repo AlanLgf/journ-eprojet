@@ -3,6 +3,9 @@
 	src: url('ufonts.com_futurastd-condensedbold-opentype.otf');
 
 }
+body {
+	overflow-x:hidden;
+}
 
 
 @font-face {
@@ -99,25 +102,27 @@ h3{
 	background: url('img/image_header2.png') no-repeat center;
 	-webkit-background-size: cover; /* pour anciens Chrome et Safari */
 	background-size: cover;
-	height: 900px;
+	height: 800px;
 	width: 100%;
 }
 
-
+.clock-builder-output {
+	padding-left:300px;
+}
 
 #main h1{
-	 margin: 30% 0 5% 0; 
+	margin: 10% 0 10% 0; 
 }
 .bouton_ecole{ 
-  text-align: center; 
+	text-align: center; 
 }
 .bouton_ecole:hover{
 	cursor : hand;
-	 -webkit-filter: brightness(75%);
+	-webkit-filter: brightness(75%);
 }
 
 #imgduplanning{ 
-  padding: 0px !important; 
+	padding: 0px !important; 
 } 
 
 /* ------------------ PRESENTATION ----------------- */
@@ -136,8 +141,8 @@ h3{
 }
 #presentation p{
 	font-family: 'Futura';
-	    padding: 0 0 10px 0;
-	    font-size: 1.25em;
+	padding: 0 0 10px 0;
+	font-size: 1.25em;
 }
 .video_presentation{
 	text-align: center;
@@ -193,7 +198,7 @@ h3{
 
 }
 #plan h2{ 
-  margin: 10% 0 ; 
+	margin: 10% 0 ; 
 } 
 
 .img_plan{
@@ -267,6 +272,11 @@ h3{
 	text-align: center;
 	color: white;
 	margin: 15px 0 40px 0;
+}
+
+.copyright p {
+	position:center;
+	text-align:center;
 }
 
 /* ------------------ compte a rebour ----------------- */
@@ -391,31 +401,31 @@ h3{
 }
 
 .tech-slideshow {
-  height: 100px;
-  margin-bottom: 50px; 
-  position: relative;
-  overflow: hidden;
-  transform: translate3d(0, 0, 0);
+	height: 100px;
+	margin-bottom: 50px; 
+	position: relative;
+	overflow: hidden;
+	transform: translate3d(0, 0, 0);
 }
 
 .tech-slideshow > div {
-  height: 200px;
-  width: 9218px;
-  background: url("img/slidemove.png");
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 100%;
-  transform: translate3d(0, 0, 0);
+	height: 200px;
+	width: 9218px;
+	background: url("img/slidemove.png");
+	position: absolute;
+	top: 0;
+	left: 0;
+	height: 100%;
+	transform: translate3d(0, 0, 0);
 }
 .tech-slideshow .mover-1 {
-  animation: moveSlideshow 90s linear infinite;
+	animation: moveSlideshow 90s linear infinite;
 }
 
 @keyframes moveSlideshow {
-  100% { 
-    transform: translateX(-55.5555%);  
-  }
+	100% { 
+		transform: translateX(-55.5555%);  
+	}
 }
 
 /* page projet */
@@ -454,6 +464,89 @@ h3{
 
 .img_projetESILV img{ 
 	padding-top: 5em;
+}
+
+
+
+
+/*   media queries */
+
+
+@media screen and (max-width: 480px) {
+	.logos-projets{
+		padding-top:130px;
+		padding-left:20px;
+	}
+
+	#main {
+
+		height: 600px;
+		width: 100%;
+	}
+	#main h1 {
+		margin: 0% 0 0% 0%;
+	}
+
+	.titre {
+		margin-bottom:30px;
+	}
+}
+
+@media screen and (min-width: 481px) and (max-width: 766px) {
+
+	.logos-projets{
+		padding-top:130px;
+		padding-left:80px;
+	}
+
+	#main {
+
+		height: 600px;
+		width: 100%;
+	}
+
+	.titre {
+		margin-bottom:30px;
+	}
+
+	#main h1 {
+		margin: 0% 0 0% 0%;
+	}
+}
+
+
+@media screen and (min-width: 767px) and (max-width: 1024px) {
+
+	.logos-projets{
+		padding-top:50px;
+		padding-left:180px;
+	}
+
+	.clock-builder-output {
+		padding-left:90px;
+
+
+	}
+
+	#main h1{
+		margin: 17% 0 10% 0; 
+	}
+
+
+}
+
+@media screen and (min-width: 1025px) and (max-width:1200px){
+
+	.clock-builder-output {
+		padding-left:200px;
+
+
+	}
+
+
+
+
+
 }
 
 
