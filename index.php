@@ -59,7 +59,7 @@ get_header();
            <h2>Présentation de la journée projet</h2>
            <div class="col-md-6">
                <div class="video_presentation">
-                 <iframe width="80%" height="350px" src="https://www.youtube.com/embed/cRSQ9vB-hxk" frameborder="0" allowfullscreen=""></iframe>
+                 <iframe width="80%" height="350px" src="https://www.youtube.com/embed/SxxVIrQdFwQ" frameborder="0" allowfullscreen=""></iframe>
                </div>
            </div>
 
