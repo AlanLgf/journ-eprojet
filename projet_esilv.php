@@ -1,20 +1,21 @@
 <?php 
 /**
-* Template Name: projet_iim
+* Template Name: projet_esilv
 */
 get_header();
 ?>
 
-<link type="text/css" rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/css/popupIIM.css" />
+<link type="text/css" rel="stylesheet" href="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/css/popupESILV.css" />
 
 
 
 
 
-<section id="header_projetIIM">	
-	<div class="img_projetIIM">
-		<img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
+<section id="header_projetESILV">	
+	<div class="img_projetESILV">
+	<img src="<?php echo get_template_directory_uri();?>/img/logo_esilv.png">
 		<h1>Journée Projet</h1>
+
 	</div>
 </section>
 

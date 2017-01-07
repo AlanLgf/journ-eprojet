@@ -26,7 +26,7 @@ get_header();
               countdown: true,
               language: 'Custom'
             };  
-            var countdown = 1484690460 - ((new Date().getTime())/1000); // from: 03/04/2017 10:52 pm +0100
+            var countdown = 1485450000 - ((new Date().getTime())/1000); // from: 03/04/2017 10:52 pm +0100
             countdown = Math.max(1, countdown);
             $('.clock-builder-output').FlipClock(countdown, opts);
           });
