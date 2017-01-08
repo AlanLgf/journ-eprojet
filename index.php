@@ -18,7 +18,7 @@ get_header();
 
     <div class="row">
 
-      <div class="col-md-12  hidden-xs" id="main_row">
+      <div class="col-lg-12 col-md-12   hidden-xs" id="main_row">
         <div class="clock-builder-output"></div>
         <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
         <script type="text/javascript" src="<?php bloginfo('url'); ?>/wp-content/themes/journ-eprojet/js/flipclock.js"></script>
@@ -40,14 +40,14 @@ get_header();
     </div>
     <div class="logos-projets">
       <div class="row">
-        <div class="col-md-3 col-xs-3" id="main_row">
+        <div class="col-md-3  col-sm-3 col-xs-12" id="main_row">
           <div class="bouton_ecole">
             <a href="#">
               <img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
             </a>
           </div>
         </div>
-        <div class="col-md-3 col-md-offset-6 col-xs-3 col-xs-offset-2" id="main_row">
+        <div class="col-md-3 col-md-offset-6 col-sm-3 col-sm-offset-6 col-xs-12 " id="main_row">
           <div class="bouton_ecole">
             <a href="#">
               <img src="<?php echo get_template_directory_uri();?>/img/logo_esilv.png">
