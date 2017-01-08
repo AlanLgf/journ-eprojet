@@ -1,6 +1,6 @@
 <?php 
-/**
-* Template Name: projet_esilv
+/*
+ Template Name: projet_esilv
 */
 get_header();
 ?>
@@ -17,7 +17,7 @@ get_header();
 		<h1>Journée Projet</h1>
 
 	</div>
-</section>
+</section> 
 
 
 <section>
