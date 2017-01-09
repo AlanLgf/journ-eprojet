@@ -111,11 +111,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-<<<<<<< Updated upstream
-								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/.jpg" alt="">
-=======
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/15879351_1257626637650100_991464663_n.jpg" alt="">
->>>>>>> Stashed changes
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/.jpg" alt="">
 								<div class="mask">
 									<h2>Soupap</h2>
 									<a target="_blank" href="" data-modal="#modal10" class="modal__trigger">Plus d'info</a>
