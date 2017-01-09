@@ -219,7 +219,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/15910330_1257653770980720_202360821_n.png" alt="Ubisoft">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/15910330_1257653770980720_202360821_n.png" alt="Ubisoft">
 								<div class="mask">
 									<h2>Ubisoft</h2>
 									<a target="_blank" href="" data-modal="#modal22" class="modal__trigger">Plus d'info</a>
@@ -228,7 +228,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/15933880_1257628600983237_1337478971_o.png" alt="Bagel Lab">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/15933880_1257628600983237_1337478971_o.png" alt="Bagel Lab">
 							<div class="mask">
 								<h2>Bagel Lab</h2>
 								<a target="_blank" href="" data-modal="#modal23" class="modal__trigger">Plus d'info</a>
@@ -237,7 +237,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/15943235_1257638914315539_1921350_o.png" alt="Disneyland">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/15943235_1257638914315539_1921350_o.png" alt="Disneyland">
 							<div class="mask">
 								<h2>Disneyland</h2>
 								<a target="_blank" href="" data-modal="#modal24" class="modal__trigger">Plus d'info</a>
@@ -246,7 +246,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/poste.png" alt="La Poste">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/poste.png" alt="La Poste">
 								<div class="mask">
 									<h2>La Poste</h2>
 									<a target="_blank" href="" data-modal="#modal25" class="modal__trigger">Plus d'info</a>
@@ -256,7 +256,7 @@ get_header();
 <!-- ################################################# Il y a 25 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/logo_mini_lamap.png" alt="La main à la pate">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/logo_mini_lamap.png" alt="La main à la pate">
 							<div class="mask">
 								<h2>La main à la pate</h2>
 								<a target="_blank" href="" data-modal="#modal26" class="modal__trigger">Plus d'info</a>
@@ -265,7 +265,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/jeux-video-info-parents-4dd4ba04f2a671305786884.png" alt="JV info parents">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/jeux-video-info-parents-4dd4ba04f2a671305786884.png" alt="JV info parents">
 							<div class="mask">
 								<h2>JV info parents</h2>
 								<a target="_blank" href="" data-modal="#modal27" class="modal__trigger">Plus d'info</a>
@@ -274,7 +274,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/15942820_1257651300980967_971928702_o.png" alt="Dungeon Twister">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/15942820_1257651300980967_971928702_o.png" alt="Dungeon Twister">
 								<div class="mask">
 									<h2>Dungeon Twister</h2>
 									<a target="_blank" href="" data-modal="#modal28" class="modal__trigger">Plus d'info</a>
@@ -283,7 +283,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Microsoft-PESTEL-Analysis.jpg" alt="Microsoft Handicap">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/Microsoft-PESTEL-Analysis.jpg" alt="Microsoft Handicap">
 							<div class="mask">
 								<h2>Microsoft Handicap</h2>
 								<a target="_blank" href="" data-modal="#modal29" class="modal__trigger">Plus d'info</a>
@@ -292,7 +292,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/logo_iim.png" alt="Step One">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/logo_iim.png" alt="Step One">
 							<div class="mask">
 								<h2>Step One</h2>
 								<a target="_blank" href="" data-modal="#modal30" class="modal__trigger">Plus d'info</a>
@@ -302,7 +302,7 @@ get_header();
 <!-- ################################################# Il y a 30 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/logo_expofrance2025.png" alt="Exposition Universelle">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/logo_expofrance2025.png" alt="Exposition Universelle">
 								<div class="mask">
 									<h2>Exposition Universelle</h2>
 									<a target="_blank" href="" data-modal="#modal31" class="modal__trigger">Plus d'info</a>
