@@ -16,11 +16,12 @@ body {
 
 h1{
 	text-align:center; 
-	padding: 1.5em 0 1em 0;
+	padding: 5.5em 0 1em 0;
 	font-size:3em;
 	color: #fff;
 	font-family: 'Police navbar';
 	text-transform: uppercase;
+	margin: 10% 0 0 0 !important;
 }
 
 h2{
@@ -489,11 +490,14 @@ h3{
 		width: 100%;
 	}
 	#main h1 {
-		margin: 0% 0 0% 0%;
+		margin: 15% 0 0% 0%;
 	}
 
 	.titre {
 		margin-bottom:30px;
+	}
+	h1{
+		padding: 40px 0 0 0;
 	}
 }
 
@@ -518,6 +522,9 @@ h3{
 
 	#main h1 {
 		margin: 0% 0 0% 0%;
+	}
+	h1{
+		padding: 0;
 	}
 }
 
