@@ -121,7 +121,7 @@ get_header();
 <!-- ################################################# Il y a 10 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/iim-logo.png" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/iim-logo.png" alt="">
 							<div class="mask">
 								<h2>Journée Projet</h2>
 								<a target="_blank" href="" data-modal="#modal11" class="modal__trigger">Plus d'info</a>
@@ -130,7 +130,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
 							<div class="mask">
 								<h2>Pilotage Financier</h2>
 								<a target="_blank" href="" data-modal="#modal12" class="modal__trigger">Plus d'info</a>
@@ -138,7 +138,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/societe.jpg" alt="societe_genrale">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/societe.jpg" alt="societe_genrale">
 								<div class="mask">
 									<h2>Solen</h2>
 									<a target="_blank" href="" data-modal="#modal13" class="modal__trigger">Plus d'info</a>
@@ -147,7 +147,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="altran">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="altran">
 							<div class="mask">
 								<h2>Altran</h2>
 								<a target="_blank" href="" data-modal="#modal14" class="modal__trigger">Plus d'info</a>
@@ -156,7 +156,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/awwwards.png" alt="awwward">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/awwwards.png" alt="awwward">
 							<div class="mask">
 								<h2>AWWWARD</h2>
 								<a target="_blank" href="" data-modal="#modal15" class="modal__trigger">Plus d'info</a>
@@ -166,7 +166,7 @@ get_header();
 <!-- ################################################# Il y a 15 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/grottechauvet.png" alt="grotte_chauvet">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/grottechauvet.png" alt="grotte_chauvet">
 								<div class="mask">
 									<h2>Grotte Chauvet</h2>
 									<a target="_blank" href="" data-modal="#modal16" class="modal__trigger">Plus d'info</a>
@@ -175,7 +175,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/nefertiti.jpg" alt="nefertiti">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/nefertiti.jpg" alt="nefertiti">
 							<div class="mask">
 								<h2>Nefertiti</h2>
 								<a target="_blank" href="" data-modal="#modal17" class="modal__trigger">Plus d'info</a>
@@ -184,7 +184,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/logo-pole-leonard-vinci.png" alt="ldv">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/logo-pole-leonard-vinci.png" alt="ldv">
 							<div class="mask">
 								<h2>Théâtre d'ombre</h2>
 								<a target="_blank" href="" data-modal="#modal18" class="modal__trigger">Plus d'info</a>
@@ -192,7 +192,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/haidouklogo.gif" alt="haidouklogo">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/" alt="The Call of Cthulhu">
 								<div class="mask">
 									<h2>The Call of Cthulhu</h2>
 									<a target="_blank" href="" data-modal="#modal19" class="modal__trigger">Plus d'info</a>
@@ -201,7 +201,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/haidouklogo.gif" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/haidouklogo.gif" alt="">
 							<div class="mask">
 								<h2>Pierrot et Colombine</h2>
 								<a target="_blank" href="" data-modal="#modal20" class="modal__trigger">Plus d'info</a>
@@ -211,7 +211,7 @@ get_header();
 <!-- ################################################# Il y a 20 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/marinenationale.jpg" alt="marinenationale">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/marinenationale.jpg" alt="marinenationale">
 							<div class="mask">
 								<h2>Marine Nationale</h2>
 								<a target="_blank" href="" data-modal="#modal21" class="modal__trigger">Plus d'info</a>
