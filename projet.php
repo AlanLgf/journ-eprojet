@@ -13,7 +13,7 @@ get_header();
 
 <section id="header_projetIIM">	
 	<div class="img_projetIIM">
-		<img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
+		<img src="<?php echo get_template_directory_uri();?>/img/iim-logo.png">
 		<h1>Journée Projet</h1>
 	</div>
 </section>
@@ -111,7 +111,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/.jpg" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="">
 								<div class="mask">
 									<h2>Soupap</h2>
 									<a target="_blank" href="" data-modal="#modal10" class="modal__trigger">Plus d'info</a>
@@ -121,9 +121,9 @@ get_header();
 <!-- ################################################# Il y a 10 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/iim-logo.png" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
 							<div class="mask">
-								<h2>Journée Projet</h2>
+								<h2>Inno'show</h2>
 								<a target="_blank" href="" data-modal="#modal11" class="modal__trigger">Plus d'info</a>
 							</div>
 						</div>
@@ -192,7 +192,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/" alt="The Call of Cthulhu">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/cyanidestudio.png" alt="The Call of Cthulhu">
 								<div class="mask">
 									<h2>The Call of Cthulhu</h2>
 									<a target="_blank" href="" data-modal="#modal19" class="modal__trigger">Plus d'info</a>
@@ -381,7 +381,7 @@ get_header();
 				<h2>Spot a shop</h2>
 				<h3>Projet Web</h3>
 				<p>L’objectif est de mettre en place deux actions de Growth Hacking : une pour augmenter la visibilité du site internet et l’autre, pour augmenter la notoriété de l’entreprise sur les réseaux sociaux (Instagram, Facebook, Twitter) – effet Good Buzz.</p>
-				<p><img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/shotashop.png" alt=""></p>
+				<p><img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/spotashot.png" alt=""></p>
 				<p>Equipe 1 : J. Chumia (A3 CD) - C. Didier (A3 CV) - C.Loyer (A3 CV) - W.Avril  (A2 CD)- T.Direr (A2 CD)- A.Bassa (A2 CV)- G.Chauvet (A2 CV)- R.Bayonne (A2 WEB)- M. Diridollou(A2 WEB)</p>
 				<p>Equipe 2 : C. Brault (A3 CD) - J.Broux (A3 CD) - Q.Delamarre-Lehmann (A3 WEB) - V.Berlioz (A2 CD)- M.ESSOMBE (A2 CD)- B.Bennouna (A2 CV)- J.Coriat (A2 CV)- J.Castex (A2 WEB)- E.Bekier(A2 WEB)</p>
 				<p>Equipe 3 : T.Feraud (A3 CD) - P.Assadi (A3 CD) - A.Bosca (A3 WEB) - FX. Briot (A2 CD)- W.Excoffier (A2 CD)- B.Billioud (A2 CV)- T.Crahay (A2 CV)- A.Benhaddou (A2 WEB)-G.Claisse(A2 WEB)</p>
@@ -507,7 +507,7 @@ get_header();
 
 	<!-- ################################################# Il y a 10 projets avant cette Balise ################################################### -->
 
-	<div id="modal14" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal11" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>INNO'SHOW</h2>
@@ -523,7 +523,7 @@ get_header();
 		</div>
 	</div>
 
-	<div id="modal15" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal12" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>PILOTAGE FINANCIER</h2>
@@ -539,7 +539,7 @@ get_header();
 		</div>
 	</div>
 
-	<div id="modal16" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal13" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>SOLEN</h2>
@@ -554,7 +554,7 @@ get_header();
 		</div>
 	</div>
 
-	<div id="modal17" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal14" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>ALTRAN</h2>
@@ -570,7 +570,7 @@ get_header();
 		</div>
 	</div>
 
-	<div id="modal18" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal15" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>AWWWARD</h2>
@@ -589,7 +589,7 @@ get_header();
 
 	<!-- ################################################# Il y a 15 projets avant cette Balise ################################################### -->
 
-	<div id="modal19" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal16" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>GROTTE CHAUVET</h2>
@@ -605,7 +605,7 @@ get_header();
 		</div>
 	</div>
 
-	<div id="modal20" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal17" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>NEFERTITI</h2>
@@ -622,7 +622,7 @@ get_header();
 		</div>
 	</div>
 
-	<div id="modal21" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
+	<div id="modal18" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 		<div class="modal__dialog">
 			<div class="modal__content">
 				<h2>THEATRE D'OMBRES</h2>

@@ -22,7 +22,7 @@ get_header();
 
 <section>
 	<div class="projets">
-		<div class="container-fluid">
+		<div class="container">
 			<div class="row">
 				<div class="align">
 					<div class="col-md-4 col-sm-6 ">
