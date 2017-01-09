@@ -43,7 +43,7 @@ get_header();
         <div class="col-md-3  col-sm-3 col-xs-12" id="main_row">
           <div class="bouton_ecole">
             <a href="#">
-              <img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
+              <img src="<?php echo get_template_directory_uri();?>/img/iim-logo.png">
             </a>
           </div>
         </div>
