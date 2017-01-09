@@ -32,7 +32,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand " style="position:relative;top:-10px" href="http://localhost:8888/bap2016/" style=""> <img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/logo-jp.png" width="80" ></a>
+        <a class="navbar-brand " style="position:relative;top:-10px" href="http://localhost:8888/bap2016/" style=""> <img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/jp.png" width="80" ></a>
 
       </div>
       <div id="navbar" class="navbar-collapse collapse">
