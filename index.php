@@ -31,7 +31,7 @@ get_header();
               countdown: true,
               language: 'Custom'
             };  
-            var countdown = 1485450000 - ((new Date().getTime())/1000); // from: 03/04/2017 10:52 pm +0100
+            var countdown = 1485442800 - ((new Date().getTime())/1000); // from: 03/04/2017 10:52 pm +0100
             countdown = Math.max(1, countdown);
             $('.clock-builder-output').FlipClock(countdown, opts);
           });
@@ -43,7 +43,7 @@ get_header();
         <div class="col-md-3  col-sm-3 col-xs-12" id="main_row">
           <div class="bouton_ecole">
             <a href="#">
-              <img src="<?php echo get_template_directory_uri();?>/img/logo_iim.png">
+              <img src="<?php echo get_template_directory_uri();?>/img/iim-logo.png">
             </a>
           </div>
         </div>
