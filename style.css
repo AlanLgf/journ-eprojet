@@ -465,8 +465,13 @@ h3{
 .img_projetESILV img{ 
 	padding-top: 5em;
 }
-
-
+/* ------------------ projets ----------------- */
+.img-centre{
+	width: 50%;
+	    text-align: center;
+    vertical-align: middle;
+    margin: 40px 26px 43px 72px;
+}
 
 
 /*   media queries */

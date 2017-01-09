@@ -26,7 +26,9 @@ get_header();
 				<div class="align">
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/foodmeup.png" alt="">
+								
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/foodmeup.png" alt="">
+							
 								<div class="mask">
 									<h2>Foodmeup</h2>
 									<a target="_blank" href="" data-modal="#modal1" class="modal__trigger">Plus d'info</a>
@@ -35,7 +37,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/poste.png" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/poste.png" alt="">
 							<div class="mask">
 								<h2>La Poste R&D</h2>
 								<a target="_blank" href="" data-modal="#modal2" class="modal__trigger">La Poste</a>
@@ -44,7 +46,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Appel-d'art.jpg" alt="">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/Appel-d'art.jpg" alt="">
 							<div class="mask">
 								<h2>Toi, c'est moi</h2>
 								<a target="_blank" href="" data-modal="#modal3" class="modal__trigger">Plus d'info</a>
@@ -53,7 +55,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/spotashot.png" alt="">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/spotashot.png" alt="">
 								<div class="mask">
 									<h2>Spot a shop</h2>
 									<a target="_blank" href="" data-modal="#modal4" class="modal__trigger">Plus d'info</a>
@@ -62,7 +64,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/montreprivee.png" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/montreprivee.png" alt="">
 							<div class="mask">
 								<h2>Montre privée</h2>
 								<a target="_blank" href="" data-modal="#modal5" class="modal__trigger">Plus d'info</a>
@@ -72,7 +74,7 @@ get_header();
 <!-- ################################################# Il y a 5 projets avant cette Balise ################################################### --> 
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/maif.png" alt="">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/maif.png" alt="">
 							<div class="mask">
 								<h2>Fondation MAIF</h2>
 								<a target="_blank" href="" data-modal="#modal6" class="modal__trigger">Plus d'info</a>
@@ -81,7 +83,9 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/risaf.png" alt="">
+					
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/risaf.png" alt="">
+					
 								<div class="mask">
 									<h2>Risaf assurance</h2>
 									<a target="_blank" href="" data-modal="#modal7" class="modal__trigger">Plus d'info</a>
@@ -90,7 +94,7 @@ get_header();
 							</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/journee-p.png" alt="">
+							<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/journee-p.png" alt="">
 							<div class="mask">
 								<h2>Journée Projet</h2>
 								<a target="_blank" href="" data-modal="#modal8" class="modal__trigger">Plus d'info</a>
@@ -99,7 +103,7 @@ get_header();
 						</div>
 						<div class="col-md-4 col-sm-6">
 						<div class="view view-first" style="visibility: visible;">
-							<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
+							<img class="img-responsive img-centre" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
 							<div class="mask">
 								<h2>Mooc SG</h2>
 								<a target="_blank" href="" data-modal="#modal9" class="modal__trigger">Plus d'info</a>
@@ -107,7 +111,7 @@ get_header();
 						</div>
 						</div><div class="col-md-4 col-sm-6 ">
 							<div class="view view-first" style="visibility: visible;">
-								<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/.jpg" alt="">
+								<img class="img-responsive img-centre" src="<?php echo get_template_directory_uri();?>/img/.jpg" alt="">
 								<div class="mask">
 									<h2>Soupap</h2>
 									<a target="_blank" href="" data-modal="#modal10" class="modal__trigger">Plus d'info</a>
