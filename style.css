@@ -521,10 +521,10 @@ h3{
 	}
 
 	#main h1 {
-		margin: 0% 0 0% 0%;
+		margin: 10% 0 0% 0%;
 	}
 	h1{
-		padding: 0;
+		padding: 50px 0 0 0;
 	}
 }
 
@@ -545,7 +545,9 @@ h3{
 	#main h1{
 		margin: 17% 0 10% 0; 
 	}
-
+	h1{
+		padding:110px;
+	}
 
 }
 
@@ -556,7 +558,9 @@ h3{
 
 
 	}
-
+h1{
+		padding:6.5em 0 0 0;
+	}
 
 }
 
@@ -567,6 +571,9 @@ h3{
 		padding-left:200px;
 
 
+	}
+	h1{
+		padding:6.5em 0 0 0;
 	}
 
 }
