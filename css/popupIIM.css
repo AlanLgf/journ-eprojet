@@ -1,4 +1,4 @@
-h1{
+	h1{
 	margin: 0% !important;
 }
 a {
@@ -68,6 +68,7 @@ a {
 	color: #fff;
 	font-family: 'Futura';
     margin: 5% 0;
+    font-size: 1.25em;
 }
 
 .modal__content--active {
