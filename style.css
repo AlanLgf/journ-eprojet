@@ -147,6 +147,7 @@ h3{
 }
 .video_presentation{
 	text-align: center;
+	    margin: 15% 0 0 0;
 }
 
 /* ------------------ PLANNING ----------------- */
@@ -499,6 +500,15 @@ h3{
 	h1{
 		padding: 40px 0 0 0;
 	}
+	#presentation p{
+	font-size: 1.5em;
+}
+#planning p{
+	font-size: 1.5em;
+}
+#plan p{
+	font-size: 1.5em;
+}
 }
 
 @media screen and (min-width: 481px) and (max-width: 766px) {
@@ -509,7 +519,15 @@ h3{
 
 		
 	}
-
+		#presentation p{
+	font-size: 1.5em;
+}
+#planning p{
+	font-size: 1.5em;
+}
+#plan p{
+	font-size: 1.5em;
+}
 	#main {
 
 		height: 600px;
@@ -535,6 +553,15 @@ h3{
 		padding-top:50px;
 		
 	}
+		#presentation p{
+	font-size: 1.5em;
+}
+#planning p{
+	font-size: 1.5em;
+}
+#plan p{
+	font-size: 1.5em;
+}
 
 	.clock-builder-output {
 		padding-left:90px;
