@@ -1,7 +1,6 @@
 @font-face {
 	font-family: "Police navbar";
 	src: url('font/futura_lt_bt_light-webfont.ttf');
-
 }
 body {
 	overflow-x:hidden;
@@ -83,7 +82,7 @@ h3{
 	background-color:#000000;
 	border-color:none;
 	font-family:'Police navbar';
-	font-size: :18px;
+	font-size:  1.1em;
 
 }
 
