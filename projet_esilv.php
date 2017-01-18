@@ -153,7 +153,7 @@ get_header();
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 16-MOATTY Ilan_129104_assignsubmission_file_Visuel PI˝.png" alt="">
+					<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 16-MOATTY Ilan_129104_assignsubmission_file_Visuel PI˝.png" alt="" style=" height: auto; width: 70%; margin:	1% 0 0 15% "/>
 					<div class="mask">
 						<h2>Norme ISO 50001</h2>
 						<a target="_blank" href="" data-modal="#modal15" class="modal__trigger">Plus d'info</a>
@@ -445,7 +445,7 @@ get_header();
 		<div class="modal__content">
 			<h2>Norme ISO 50001</h2>
 			<p>Mettre en place la démarche pour obtenir la norme ISO 50001 sur l'ensemble du pôle universitaire Léonard de Vinci.  Réalisation d'un audit énergétique.  Isolation des problèmes énergivores.  Plan d'amélioration de la gestion énergétique du bâtiment.  Sensibilisation des utilisateurs.</p>
-			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe 16-MOATTY Ilan_129104_assignsubmission_file_Visuel PI˝.png" alt="" /></p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe 16-MOATTY Ilan_129104_assignsubmission_file_Visuel PI˝.png" alt=""  style=" margin:	0 0 0 25% "  /></p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
