@@ -208,7 +208,7 @@ get_header();
 		<!-- ################################################# Il y a 20 projets avant cette Balise ################################################### --> 
 		<div class="col-md-4 col-sm-6">
 			<div class="view view-first" style="visibility: visible;">
-				<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 22-BADANI Jordan_128836_assignsubmission_file_Visuel Projet.png" alt="">
+				<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 22-BADANI Jordan_128836_assignsubmission_file_Visuel Projet.png" alt="" style=" height: auto; width: 80%; margin:	10% 0 0 10% "/>
 				<div class="mask">
 					<h2>Etude de la soudure du raidisseur au châssis</h2>
 					<a target="_blank" href="" data-modal="#modal21" class="modal__trigger">Plus d'info</a>
@@ -537,7 +537,7 @@ get_header();
 		<div class="modal__content">
 			<h2>Etude de la soudure du raidisseur au châssis</h2>
 			<p>Notre projet consiste à étudier l’assemblage soudé par résistance par point d’un châssis-raidisseur d’un véhicule. Notre but est de réaliser un crash test simulant le comportement thermomécanique de l’assemblage et d’optimiser le calcul pour améliorer la sécurité des utilisateurs.</p>
-			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2022-BADANI%20Jordan_128836_assignsubmission_file_Visuel%20Projet.png" alt="" /></p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2022-BADANI%20Jordan_128836_assignsubmission_file_Visuel%20Projet.png" alt="" style=" margin:	0 0 0 25% "   /></p>
 			<p>Partenaire : ALTAIR</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
