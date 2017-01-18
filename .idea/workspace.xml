@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f18ea8e8-7210-48a9-98f0-ec817a9dce36" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/projet_esilv.php" afterPath="$PROJECT_DIR$/projet_esilv.php" />
     </list>
     <ignored path="journ-eprojet.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,20 +30,41 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="3264">
               <caret line="192" column="149" selection-start-line="192" selection-start-column="149" selection-end-line="192" selection-end-column="149" />
-              <folding>
-                <element signature="e#9241#9293#0#HTML" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/style.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding>
                 <marker date="1484058419393" expanded="true" signature="11:94" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projet_esilv.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/projet_esilv.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="646" column="0" selection-start-line="646" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
+              <folding>
+                <element signature="e#1541#1569#0#HTML" expanded="true" />
+                <element signature="e#5951#5979#0#HTML" expanded="true" />
+                <element signature="e#6379#6407#0#HTML" expanded="true" />
+                <marker date="1484759576256" expanded="false" signature="12069:12089" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="12431:12451" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="12801:12821" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="13323:13343" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="13685:13705" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="14055:14075" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="14413:14433" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="14775:14795" placeholder="..." />
+                <marker date="1484759576256" expanded="false" signature="15303:15323" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -62,6 +84,7 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/projet.php" />
         <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/projet_esilv.php" />
       </list>
     </option>
   </component>
@@ -197,11 +220,12 @@
       <workItem from="1483903972822" duration="630000" />
       <workItem from="1483966993938" duration="6483000" />
       <workItem from="1484054566704" duration="1886000" />
+      <workItem from="1484756523118" duration="3073000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41518000" />
+    <option name="totallyTimeSpent" value="44591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -283,9 +307,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8398">
           <caret line="494" column="46" selection-start-line="494" selection-start-column="46" selection-end-line="494" selection-end-column="46" />
-          <folding>
-            <element signature="e#9241#9293#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -535,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/projet_esilv.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="546">
@@ -553,9 +568,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3264">
           <caret line="192" column="149" selection-start-line="192" selection-start-column="149" selection-end-line="192" selection-end-column="149" />
-          <folding>
-            <element signature="e#9241#9293#0#HTML" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -565,6 +578,27 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <marker date="1484058419393" expanded="true" signature="11:94" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/projet_esilv.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="646" column="0" selection-start-line="646" selection-start-column="0" selection-end-line="646" selection-end-column="0" />
+          <folding>
+            <element signature="e#1541#1569#0#HTML" expanded="true" />
+            <element signature="e#5951#5979#0#HTML" expanded="true" />
+            <element signature="e#6379#6407#0#HTML" expanded="true" />
+            <marker date="1484759576256" expanded="false" signature="12069:12089" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="12431:12451" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="12801:12821" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="13323:13343" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="13685:13705" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="14055:14075" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="14413:14433" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="14775:14795" placeholder="..." />
+            <marker date="1484759576256" expanded="false" signature="15303:15323" placeholder="..." />
           </folding>
         </state>
       </provider>

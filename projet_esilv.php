@@ -127,35 +127,35 @@ get_header();
 				</div>
 				<div class="col-md-4 col-sm-6">
 					<div class="view view-first" style="visibility: visible;">
-						<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
+						<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 12-SALERNO-PENCIOLELLI AntinÇa_128006_assignsubmission_file_[PI˝][Equipe12][Projet85][Visuel].jpg" alt="equipe12">
 						<div class="mask">
-							<h2>Société général</h2>
+							<h2>Mise en œuvre d’un outil de simulation des défauts de vision et du bénéfice apporté par les aides visuelles optiques.</h2>
 							<a target="_blank" href="" data-modal="#modal12" class="modal__trigger">Plus d'info</a>
 						</div>
 					</div>
 				</div><div class="col-md-4 col-sm-6 ">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="">
+					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Equipe 13-GHEUNG Nicolas_128859_assignsubmission_file_Visuel.png" alt="equipe13">
 					<div class="mask">
-						<h2>Altran</h2>
+						<h2>Exploring the properties of VXX</h2>
 						<a target="_blank" href="" data-modal="#modal13" class="modal__trigger">Plus d'info</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/awwwards.png" alt="">
+					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Equipe 15-TSEDE Aaron_128794_assignsubmission_file_visuel.png" alt="">
 					<div class="mask">
-						<h2>Awwwards</h2>
+						<h2>Dimensionnement du système de production d'énergie du centre One Love</h2>
 						<a target="_blank" href="" data-modal="#modal14" class="modal__trigger">Plus d'info</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
+					<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 16-MOATTY Ilan_129104_assignsubmission_file_Visuel PI.png˝" alt="">
 					<div class="mask">
-						<h2>Société général</h2>
+						<h2>Norme ISO 50001</h2>
 						<a target="_blank" href="" data-modal="#modal15" class="modal__trigger">Plus d'info</a>
 					</div>
 				</div>
@@ -163,44 +163,44 @@ get_header();
 			<!-- ################################################# Il y a 15 projets avant cette Balise ################################################### --> 
 			<div class="col-md-4 col-sm-6 ">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="">
+					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Equipe 17-SOULET Victor_128634_assignsubmission_file_visuel_copula.jpg" alt="">
 					<div class="mask">
-						<h2>Altran</h2>
+						<h2>Portfolio diversification in period of market stress: a copula approach</h2>
 						<a target="_blank" href="" data-modal="#modal16" class="modal__trigger">Plus d'info</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/awwwards.png" alt="">
+					<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/" alt="">
 					<div class="mask">
-						<h2>Awwwards</h2>
+						<h2>Autonomous Watch</h2>
 						<a target="_blank" href="" data-modal="#modal17" class="modal__trigger">Plus d'info</a>
 					</div>
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-6">
 				<div class="view view-first" style="visibility: visible;">
-					<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
+					<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Equipe 19-SALE ASSA Charles Junior_129062_assignsubmission_file_Visuel.png" alt="">
 					<div class="mask">
-						<h2>Société général</h2>
+						<h2>Application d'aide et de mise en relation entre personnes handicapées et bénévoles</h2>
 						<a target="_blank" href="" data-modal="#modal18" class="modal__trigger">Plus d'info</a>
 					</div>
 				</div>
 			</div><div class="col-md-4 col-sm-6 ">
 			<div class="view view-first" style="visibility: visible;">
-				<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="">
+				<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Equipe 20-QANDOUSSI Amine_129123_assignsubmission_file_15895266_10211694765354536_7609056521248599171_n.jpg" alt="">
 				<div class="mask">
-					<h2>Altran</h2>
+					<h2>Optimisation de la fréquence de résonance d'une aile d'avion dans le cadre du ALTAIR SAFETY CHALLENGE.</h2>
 					<a target="_blank" href="" data-modal="#modal19" class="modal__trigger">Plus d'info</a>
 				</div>
 			</div>
 		</div>
 		<div class="col-md-4 col-sm-6">
 			<div class="view view-first" style="visibility: visible;">
-				<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/awwwards.png" alt="">
+				<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Equipe%2021-THOMAS%20Jean-Mathieu_129065_assignsubmission_file_VisuelPi2.PNG" alt="">
 				<div class="mask">
-					<h2>Awwwards</h2>
+					<h2>Challenge Altair: modelisation et simulation du train d'atterrissage avant d'un Diamon DA20</h2>
 					<a target="_blank" href="" data-modal="#modal20" class="modal__trigger">Plus d'info</a>
 				</div>
 			</div>
@@ -208,21 +208,21 @@ get_header();
 		<!-- ################################################# Il y a 20 projets avant cette Balise ################################################### --> 
 		<div class="col-md-4 col-sm-6">
 			<div class="view view-first" style="visibility: visible;">
-				<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/societe.jpg" alt="">
+				<img class="img-responsive" src=" <?php echo get_template_directory_uri();?>/img/Etude de la soudure du raidisseur au châssis.png" alt="">
 				<div class="mask">
-					<h2>Société général</h2>
+					<h2>Etude de la soudure du raidisseur au châssis</h2>
 					<a target="_blank" href="" data-modal="#modal21" class="modal__trigger">Plus d'info</a>
 				</div>
 			</div>
 		</div><div class="col-md-4 col-sm-6 ">
 		<div class="view view-first" style="visibility: visible;">
-			<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="">
+			<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/Equipe 23-TROUILLEFOU Anthony_129058_assignsubmission_file_TubeGouverne.jpg" alt="">
 			<div class="mask">
-				<h2>Altran</h2>
+				<h2>Modélisation &amp; Optimisation des commandes de vol d'un ULM</h2>
 				<a target="_blank" href="" data-modal="#modal22" class="modal__trigger">Plus d'info</a>
 			</div>
 		</div>
-	</div>
+	<!--</div>
 	<div class="col-md-4 col-sm-6">
 		<div class="view view-first" style="visibility: visible;">
 			<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/awwwards.png" alt="">
@@ -249,9 +249,9 @@ get_header();
 				<a target="_blank" href="" data-modal="#modal25" class="modal__trigger">Plus d'info</a>
 			</div>
 		</div>
-	</div>
-	<!-- ################################################# Il y a 25 projets avant cette Balise ################################################### --> 
-	<div class="col-md-4 col-sm-6">
+	</div> -->
+	<!-- ################################################# Il y a 25 projets avant cette Balise ################################################### -->
+						<!--  <div class="col-md-4 col-sm-6">
 		<div class="view view-first" style="visibility: visible;">
 			<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/awwwards.png" alt="">
 			<div class="mask">
@@ -295,9 +295,9 @@ get_header();
 				<a target="_blank" href="" data-modal="#modal30" class="modal__trigger">Plus d'info</a>
 			</div>
 		</div>
-	</div>
-	<!-- ################################################# Il y a 30 projets avant cette Balise ################################################### --> 
-	<div class="col-md-4 col-sm-6 ">
+	</div> -->
+	<!-- ################################################# Il y a 30 projets avant cette Balise ################################################### -->
+	<!-- <div class="col-md-4 col-sm-6 ">
 		<div class="view view-first" style="visibility: visible;">
 			<img class="img-responsive" src="<?php echo get_template_directory_uri();?>/img/altran.jpg" alt="">
 			<div class="mask">
@@ -305,7 +305,7 @@ get_header();
 				<a target="_blank" href="" data-modal="#modal31" class="modal__trigger">Plus d'info</a>
 			</div>
 		</div>
-	</div>
+	</div> -->
 </div>
 </div>
 </div>
@@ -483,12 +483,10 @@ get_header();
 <div id="modal12" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Mise en œuvre d’un outil de simulation des défauts de vision et du bénéfice apporté par les aides visuelles optiques.</h2>
+			<p>Nous avons imaginé la création d'une application mobile, utilisant la technologie de la réalité virtuelle, pour répondre à notre problématique. À savoir, la conception d'un outil permettant de simuler différents défauts de vision en montrant par la suite les effets des aides visuelles. En effet, la réalité virtuelle est une nouvelle technologie en pleine évolution permettant de réaliser une simulation informatique interactive immersive, visuelle et sonore d’environnement réel ou imaginaire. Ainsi, nous avons abouti à la réalisation d’une application iOS de réalité virtuelle en Swift sous XCode.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe 12-SALERNO-PENCIOLELLI AntinÇa_128006_assignsubmission_file_[PI˝][Equipe12][Projet85][Visuel].jpg" alt="" /></p>
+			<p>Partenaire : ESSILOR</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -500,12 +498,9 @@ get_header();
 <div id="modal13" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Exploring the properties of VXX</h2>
+			<p>The aim of the project was to analyze and arbitrate the Backwardation effect of the VXX ETN, effect which provides from the VIX Contago Future Term Structure.   By gathering the historical data and analyzing them via a C# implementation, we found a way to take profit of the Backwardation effect of the VXX.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2013-GHEUNG%20Nicolas_128859_assignsubmission_file_Visuel.png" alt="" /></p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -517,12 +512,10 @@ get_header();
 <div id="modal14" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Dimensionnement du système de production d'énergie du centre One Love</h2>
+			<p>L'Association One Love s'est donné pour objectif d'apporter aux enfants de Kasangulu (RDC) un cadre éducatif innovant et exemplaire à travers la création d'un centre allant de la maternelle au collège et intégrant un orphelinat.  Notre mission est de dimensionner un système de production d'énergie pour ce centre afin qu'il soit autonome et valorise les ressources naturelles présentes dans sa région.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe 15-TSEDE Aaron_128794_assignsubmission_file_visuel.png" alt="" /></p>
+			<p>Partenaire : Association One Love</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -534,12 +527,9 @@ get_header();
 <div id="modal15" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Norme ISO 50001</h2>
+			<p>Mettre en place la démarche pour obtenir la norme ISO 50001 sur l'ensemble du pôle universitaire Léonard de Vinci.  Réalisation d'un audit énergétique.  Isolation des problèmes énergivores.  Plan d'amélioration de la gestion énergétique du bâtiment.  Sensibilisation des utilisateurs.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe 16-MOATTY Ilan_129104_assignsubmission_file_Visuel PI˝.png" alt="" /></p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -553,12 +543,9 @@ get_header();
 <div id="modal16" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Portfolio diversification in period of market stress: a copula approach</h2>
+			<p>The project intends to establish a more robust way of diversifying a portfolio in period of extreme market condition.   Diversification remains one of the best strategies when it comes to portfolio optmization. However, by only considering linear correlation measures and by assuming normal distribution of returns, as suggested by Markowitz, investors are actually underestimating the probability of extreme events to happen. Our copula-based approach is dedicated to adress this issue and provide investors with a more robust and reliable way to allocate their assets, even when market condition seems not favorable. In single words, our procedure use R-Vine copulas to model the dependence structure of a predefined set of stocks, and then, find the weight vector that minimizes the CVaR of the portfolio. We finally backtest our result and compare it with other traditional methods in the rational hope to obtain improved performance.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe 17-SOULET Victor_128634_assignsubmission_file_visuel_copula.jpg" alt="" /></p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -570,12 +557,10 @@ get_header();
 <div id="modal17" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Autonomous Watch</h2>
+			<p>Parce que le handicap signifie une défaillance d’un sens ; nous proposons un projet permettant de transcrire un sens déficient en un autre sens compréhensible par la personne infirme. Pour permettre cela ;  le projet va s’appuyer sur des capteurs (IoT) afin de retranscrire des informations sur différents types de dispositifs tels que les Smartphones, les montres connectées ou encore les ordinateurs portables. Mais encore ; notre solution s’adapte à tous les types de handicap contrairement aux solutions actuelles du marché.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/" alt="" /></p>
+			<p>Partenaire : Microsoft</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -587,12 +572,10 @@ get_header();
 <div id="modal18" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Application d'aide et de mise en relation entre personnes handicapées et bénévoles</h2>
+			<p>WHelp est une application Android qui mettra en relation des personnes handicapées et des personnes aidantes (proches, associations et autres bénévoles), principalement dans deux types de situations :  • Situation dangereuse et urgente  • Besoin d’assistance (exemple : aider un aveugle à faire du shopping)  Une personne handicapée pourra lancer une alerte ou une demande d’assistance via WHelp qui recherchera un aidant selon sa localisation et son profil.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2019-SALE%20ASSA%20Charles%20Junior_129062_assignsubmission_file_Visuel.png" alt="" /></p>
+			<p>Partenaire : Microsoft</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -604,12 +587,10 @@ get_header();
 <div id="modal19" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Optimisation de la fréquence de résonance d'une aile d'avion dans le cadre du ALTAIR SAFETY CHALLENGE.</h2>
+			<p>De nos jours,  de nombreux essais sont essentiels à la validation de la structure d'un avion pour assurer le maximum de sécurité à ses passagers.  L'une de ces étapes est l'étude de la fréquence de résonance des ailes. Si cette étude n'est pas menée avec la plus grande minutie, les effets peuvent être désastreux.  C'est tout l'intérêt de notre projet cette année qui s'inscrit dans le cadre du ALTAIR SAFETY CHALLENGE.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2020-QANDOUSSI%20Amine_129123_assignsubmission_file_15895266_10211694765354536_7609056521248599171_n.jpg" alt="" /></p>
+			<p>Partenaire : ALTAIR</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -621,12 +602,10 @@ get_header();
 <div id="modal20" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Challenge Altair: modelisation et simulation du train d'atterrissage avant d'un Diamon DA20</h2>
+			<p>Dans le cadre de notre Projet d'innovation industrielle, nous avons choisi de participer au ALTAIR SAFETY CHALLENGE. Ce concours consiste à étudier des problématiques de sécurité liées au fonctionnement des avions en utilisant les outils de simulation ALTAIR. Nous avons donc choisi d'optimiser la structure d'un train d'atterrissage avant d'un avion de tourisme. Pour cela nous allons modéliser et simuler la charge exercée sur le train d'atterrissage avant, puis tenter d'optimiser sa structure.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2021-THOMAS%20Jean-Mathieu_129065_assignsubmission_file_VisuelPi2.PNG" alt="" /></p>
+			<p>Partenaire : ALTAIR</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -640,12 +619,10 @@ get_header();
 <div id="modal21" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Etude de la soudure du raidisseur au châssis</h2>
+			<p>Notre projet consiste à étudier l’assemblage soudé par résistance par point d’un châssis-raidisseur d’un véhicule. Notre but est de réaliser un crash test simulant le comportement thermomécanique de l’assemblage et d’optimiser le calcul pour améliorer la sécurité des utilisateurs.</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2022-BADANI%20Jordan_128836_assignsubmission_file_Visuel%20Projet.png" alt="" /></p>
+			<p>Partenaire : ALTAIR</p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
@@ -657,12 +634,9 @@ get_header();
 <div id="modal22" class="modal modal--align-top modal__bg" role="dialog" aria-hidden="true">
 	<div class="modal__dialog">
 		<div class="modal__content">
-			<h2>Big Modal</h2>
-			<h3>This modal is pretty tall.</h3>
-			<p>Selfies normcore four dollar toast four loko listicle artisan. Hoodie Marfa authentic, wayfarers church-key tofu Banksy pop-up Kickstarter Brooklyn heirloom swag synth. Echo Park cray synth mixtape. Tofu gastropub squid readymade, trust fund Wes Anderson DIY PBR 8-bit try-hard +1 Shoreditch lo-fi tote bag.</p>
-			<p><img src="http://unsplash.it/600/300" alt="" /></p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
-			<p>Mumblecore cred selfies fingerstache. Tousled skateboard plaid lo-fi shabby chic salvia, swag Odd Future Etsy art party Austin cronut. Crucifix whatever Pinterest food truck, pickled viral cray 90's DIY chambray keffiyeh biodiesel Vice blog. Cred meh yr tofu.</p>
+			<h2>Modélisation &amp; Optimisation des commandes de vol d'un ULM</h2>
+			<p>Ce projet, qui tient son origine d'une recherche de partenariat, nous a été proposé par un industriel de l'entreprise HKW-aéro. Notre mission est de mener une étude dans le but de réduire le nombre de pièces de conception dans les commandes de vol principales d'un ULM, tout en maintenant un bon niveau de sécurité.    Recherche documentaire, modélisation sous SolidWorks, calcul via Hypermesh, ce projet permet de se mesurer aux problématiques du monde de l'industrie aéronautique..</p>
+			<p><img class="img-responsive img-centre " src="<?php echo get_template_directory_uri();?>/img/Equipe%2023-TROUILLEFOU%20Anthony_129058_assignsubmission_file_TubeGouverne.jpg" alt="" /></p>
 			<!-- modal close button -->
 			<a href="" class="modal__close demo-close">
 				<svg class="" viewBox="0 0 24 24"><path d="M19 6.41l-1.41-1.41-5.59 5.59-5.59-5.59-1.41 1.41 5.59 5.59-5.59 5.59 1.41 1.41 5.59-5.59 5.59 5.59 1.41-1.41-5.59-5.59z"/><path d="M0 0h24v24h-24z" fill="none"/></svg>
